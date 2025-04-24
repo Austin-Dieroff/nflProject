@@ -1,0 +1,527 @@
+Team 1 For Ref.,Team 2 (Opp.1),Team 1,Team 2,Week,Day,Date,Opp.1,1stD,TotYd,PassY,RushY,TO,1stD.1,TotYd.1,PassY.1,RushY.1,TO.1,Offense,Defense,Sp. Tms,Result
+San Francisco 49ers,Detroit Lions,San Francisco 49ers,Detroit Lions,1,Sun,12-Sep,33,21,442,311,131,2,31,430,314,116,1,15.48,-5.16,-1.73,W
+Chicago Bears,Los Angeles Rams,Chicago Bears,Los Angeles Rams,1,Sun,12-Sep,34,24,322,188,134,2,18,386,312,74,0,-0.85,-21.58,0.52,L
+Cincinnati Bengals,Minnesota Vikings,Cincinnati Bengals,Minnesota Vikings,1,Sun,12-Sep,24,20,366,217,149,0,24,403,336,67,1,6.16,-2.9,-1.79,W
+Denver Broncos,New York Giants,Denver Broncos,New York Giants,1,Sun,12-Sep,13,24,420,255,165,1,19,314,254,60,1,20.31,-3.89,-3.35,W
+Cleveland Browns,Kansas City Chiefs,Cleveland Browns,Kansas City Chiefs,1,Sun,12-Sep,33,24,457,304,153,2,21,397,324,73,0,20.54,-19.34,0.35,L
+Tampa Bay Buccaneers,Dallas Cowboys,Tampa Bay Buccaneers,Dallas Cowboys,1,Thu,9-Sep,29,24,431,379,52,4,30,451,391,60,1,9.37,-13.67,7.76,W
+Buffalo Bills,Pittsburgh Steelers,Buffalo Bills,Pittsburgh Steelers,1,Sun,12-Sep,23,22,371,254,117,1,16,252,177,75,0,-3.55,0.54,-5.01,L
+Arizona Cardinals,Tennessee Titans,Arizona Cardinals,Tennessee Titans,1,Sun,12-Sep,13,22,416,280,136,1,17,248,162,86,3,8.83,14.48,1.57,W
+Los Angeles Chargers,Washington Football Team,Los Angeles Chargers,Washington Football Team,1,Sun,12-Sep,16,27,424,334,90,2,15,259,133,126,1,9.45,-1.45,-1.24,W
+Kansas City Chiefs,Cleveland Browns,Kansas City Chiefs,Cleveland Browns,1,Sun,12-Sep,29,21,397,324,73,0,24,457,304,153,2,19.34,-20.54,-0.35,W
+Indianapolis Colts,Seattle Seahawks,Indianapolis Colts,Seattle Seahawks,1,Sun,12-Sep,28,23,336,223,113,1,18,381,241,140,1,3.07,-14.35,0.51,L
+Dallas Cowboys,Tampa Bay Buccaneers,Dallas Cowboys,Tampa Bay Buccaneers,1,Thu,9-Sep,31,30,451,391,60,1,24,431,379,52,4,13.67,-9.37,-7.76,L
+Miami Dolphins,New England Patriots,Miami Dolphins,New England Patriots,1,Sun,12-Sep,16,16,259,185,74,1,24,393,268,125,2,-0.74,-5.75,6.05,W
+Philadelphia Eagles,Atlanta Falcons,Philadelphia Eagles,Atlanta Falcons,1,Sun,12-Sep,6,24,434,261,173,0,19,260,136,124,0,13.14,12.48,-2.36,W
+Atlanta Falcons,Philadelphia Eagles,Atlanta Falcons,Philadelphia Eagles,1,Sun,12-Sep,32,19,260,136,124,0,24,434,261,173,0,-12.48,-13.14,2.36,L
+New York Giants,Denver Broncos,New York Giants,Denver Broncos,1,Sun,12-Sep,27,19,314,254,60,1,24,420,255,165,1,3.89,-20.31,3.35,L
+Jacksonville Jaguars,Houston Texans,Jacksonville Jaguars,Houston Texans,1,Sun,12-Sep,37,20,395,319,76,3,22,449,289,160,0,-1.54,-14.76,0.16,L
+New York Jets,Carolina Panthers,New York Jets,Carolina Panthers,1,Sun,12-Sep,19,16,252,207,45,1,18,381,270,111,1,-10.0,-1.31,3.49,L
+Detroit Lions,San Francisco 49ers,Detroit Lions,San Francisco 49ers,1,Sun,12-Sep,41,31,430,314,116,1,21,442,311,131,2,5.16,-15.48,1.73,L
+Green Bay Packers,New Orleans Saints,Green Bay Packers,New Orleans Saints,1,Sun,12-Sep,38,14,229,186,43,3,22,322,151,171,0,-14.83,-20.22,1.59,L
+Carolina Panthers,New York Jets,Carolina Panthers,New York Jets,1,Sun,12-Sep,14,18,381,270,111,1,16,252,207,45,1,1.31,10.0,-3.49,W
+New England Patriots,Miami Dolphins,New England Patriots,Miami Dolphins,1,Sun,12-Sep,17,24,393,268,125,2,16,259,185,74,1,5.75,0.74,-6.05,L
+Oakland Raiders,Baltimore Ravens,Oakland Raiders,Baltimore Ravens,1,Mon,13-Sep,27,26,491,409,82,1,20,406,217,189,2,11.58,-3.0,-2.58,W
+Los Angeles Rams,Chicago Bears,Los Angeles Rams,Chicago Bears,1,Sun,12-Sep,14,18,386,312,74,0,24,322,188,134,2,21.58,0.85,-0.52,W
+Baltimore Ravens,Las Vegas Raiders,Baltimore Ravens,Las Vegas Raiders,1,Mon,13-Sep,33,20,406,217,189,2,26,491,409,82,1,3.0,-11.58,2.58,L
+New Orleans Saints,Green Bay Packers,New Orleans Saints,Green Bay Packers,1,Sun,12-Sep,3,22,322,151,171,0,14,229,186,43,3,20.22,14.83,-1.59,W
+Seattle Seahawks,Indianapolis Colts,Seattle Seahawks,Indianapolis Colts,1,Sun,12-Sep,16,18,381,241,140,1,23,336,223,113,1,14.35,-3.07,-0.51,W
+Pittsburgh Steelers,Buffalo Bills,Pittsburgh Steelers,Buffalo Bills,1,Sun,12-Sep,16,16,252,177,75,0,22,371,254,117,1,-0.54,3.55,5.01,W
+Houston Texans,Jacksonville Jaguars,Houston Texans,Jacksonville Jaguars,1,Sun,12-Sep,21,22,449,289,160,0,20,395,319,76,3,14.76,1.54,-0.16,W
+Tennessee Titans,Arizona Cardinals,Tennessee Titans,Arizona Cardinals,1,Sun,12-Sep,38,17,248,162,86,3,22,416,280,136,1,-14.48,-8.83,-1.57,L
+Minnesota Vikings,Cincinnati Bengals,Minnesota Vikings,Cincinnati Bengals,1,Sun,12-Sep,27,24,403,336,67,1,20,366,217,149,0,2.9,-6.16,1.79,L
+San Francisco 49ers,Philadelphia Eagles,San Francisco 49ers,Philadelphia Eagles,2,Sun,19-Sep,11,23,306,189,117,0,18,328,177,151,0,7.86,-5.3,2.68,W
+Chicago Bears,Cincinnati Bengals,Chicago Bears,Cincinnati Bengals,2,Sun,19-Sep,17,16,206,83,123,1,14,248,179,69,4,-11.15,16.14,-1.51,W
+Cincinnati Bengals,Chicago Bears,Cincinnati Bengals,Chicago Bears,2,Sun,19-Sep,20,14,248,179,69,4,16,206,83,123,1,-16.14,11.15,1.51,L
+Denver Broncos,Jacksonville Jaguars,Denver Broncos,Jacksonville Jaguars,2,Sun,19-Sep,13,22,398,302,96,0,12,189,114,75,2,13.99,2.8,2.29,W
+Cleveland Browns,Houston Texans,Cleveland Browns,Houston Texans,2,Sun,19-Sep,21,22,355,199,156,2,17,302,220,82,2,8.22,-9.61,8.62,W
+Tampa Bay Buccaneers,Atlanta Falcons,Tampa Bay Buccaneers,Atlanta Falcons,2,Sun,19-Sep,25,21,341,259,82,1,19,348,293,55,3,8.63,15.96,-0.72,W
+Buffalo Bills,Miami Dolphins,Buffalo Bills,Miami Dolphins,2,Sun,19-Sep,0,21,314,171,143,2,13,216,145,71,3,8.16,24.67,-0.37,W
+Arizona Cardinals,Minnesota Vikings,Arizona Cardinals,Minnesota Vikings,2,Sun,19-Sep,33,21,474,371,103,2,22,419,242,177,0,11.99,-12.56,0.9,W
+Los Angeles Chargers,Dallas Cowboys,Los Angeles Chargers,Dallas Cowboys,2,Sun,19-Sep,20,24,408,313,95,2,25,419,221,198,1,5.55,-17.5,-1.81,L
+Kansas City Chiefs,Baltimore Ravens,Kansas City Chiefs,Baltimore Ravens,2,Sun,19-Sep,36,22,405,343,62,2,31,481,230,251,2,15.89,-16.88,1.01,L
+Indianapolis Colts,Los Angeles Rams,Indianapolis Colts,Los Angeles Rams,2,Sun,19-Sep,27,22,354,245,109,2,21,371,270,101,2,1.29,-7.11,3.09,L
+Dallas Cowboys,Los Angeles Chargers,Dallas Cowboys,Los Angeles Chargers,2,Sun,19-Sep,17,25,419,221,198,1,24,408,313,95,2,17.5,-5.55,1.81,W
+Miami Dolphins,Buffalo Bills,Miami Dolphins,Buffalo Bills,2,Sun,19-Sep,35,13,216,145,71,3,21,314,171,143,2,-24.67,-8.16,0.37,L
+Philadelphia Eagles,San Francisco 49ers,Philadelphia Eagles,San Francisco 49ers,2,Sun,19-Sep,17,18,328,177,151,0,23,306,189,117,0,5.3,-7.86,-2.68,L
+Atlanta Falcons,Tampa Bay Buccaneers,Atlanta Falcons,Tampa Bay Buccaneers,2,Sun,19-Sep,48,19,348,293,55,3,21,341,259,82,1,-15.96,-8.63,0.72,L
+New York Giants,Washington Football Team,New York Giants,Washington Football Team,2,Thu,16-Sep,30,21,391,228,163,0,25,407,320,87,1,10.45,-12.19,0.6,L
+Jacksonville Jaguars,Denver Broncos,Jacksonville Jaguars,Denver Broncos,2,Sun,19-Sep,23,12,189,114,75,2,22,398,302,96,0,-2.8,-13.99,-2.29,L
+New York Jets,New England Patriots,New York Jets,New England Patriots,2,Sun,19-Sep,25,18,336,184,152,4,17,260,159,101,0,-12.66,-0.24,-3.52,L
+Detroit Lions,Green Bay Packers,Detroit Lions,Green Bay Packers,2,Mon,20-Sep,35,19,344,236,108,2,25,323,227,96,0,-0.27,-19.91,3.69,L
+Green Bay Packers,Detroit Lions,Green Bay Packers,Detroit Lions,2,Mon,20-Sep,17,25,323,227,96,0,19,344,236,108,2,19.91,0.27,-3.69,W
+Carolina Panthers,New Orleans Saints,Carolina Panthers,New Orleans Saints,2,Sun,19-Sep,7,28,383,294,89,1,6,128,80,48,2,12.61,21.2,-12.63,W
+New England Patriots,New York Jets,New England Patriots,New York Jets,2,Sun,19-Sep,6,17,260,159,101,0,18,336,184,152,4,0.24,12.66,3.52,W
+Oakland Raiders,Pittsburgh Steelers,Oakland Raiders,Pittsburgh Steelers,2,Sun,19-Sep,17,22,425,373,52,0,17,331,292,39,1,12.75,-1.19,-0.99,W
+Los Angeles Rams,Indianapolis Colts,Los Angeles Rams,Indianapolis Colts,2,Sun,19-Sep,24,21,371,270,101,2,22,354,245,109,2,7.11,-1.29,-3.09,W
+Baltimore Ravens,Kansas City Chiefs,Baltimore Ravens,Kansas City Chiefs,2,Sun,19-Sep,35,31,481,230,251,2,22,405,343,62,2,16.88,-15.89,-1.01,W
+New Orleans Saints,Carolina Panthers,New Orleans Saints,Carolina Panthers,2,Sun,19-Sep,26,6,128,80,48,2,28,383,294,89,1,-21.2,-12.61,12.63,L
+Seattle Seahawks,Tennessee Titans,Seattle Seahawks,Tennessee Titans,2,Sun,19-Sep,33,17,397,320,77,0,33,532,320,212,1,13.29,-17.41,1.06,L
+Pittsburgh Steelers,Las Vegas Raiders,Pittsburgh Steelers,Las Vegas Raiders,2,Sun,19-Sep,26,17,331,292,39,1,22,425,373,52,0,1.19,-12.75,0.99,L
+Houston Texans,Cleveland Browns,Houston Texans,Cleveland Browns,2,Sun,19-Sep,31,17,302,220,82,2,22,355,199,156,2,9.61,-8.22,-8.62,L
+Tennessee Titans,Seattle Seahawks,Tennessee Titans,Seattle Seahawks,2,Sun,19-Sep,30,33,532,320,212,1,17,397,320,77,0,17.41,-13.29,-1.06,W
+Minnesota Vikings,Arizona Cardinals,Minnesota Vikings,Arizona Cardinals,2,Sun,19-Sep,34,22,419,242,177,0,21,474,371,103,2,12.56,-11.99,-0.9,L
+San Francisco 49ers,Green Bay Packers,San Francisco 49ers,Green Bay Packers,3,Sun,26-Sep,30,26,298,231,67,2,21,353,253,100,0,12.19,-15.14,0.95,L
+Chicago Bears,Cleveland Browns,Chicago Bears,Cleveland Browns,3,Sun,26-Sep,26,6,47,1,46,0,26,418,203,215,0,-19.73,-6.11,2.28,L
+Cincinnati Bengals,Pittsburgh Steelers,Cincinnati Bengals,Pittsburgh Steelers,3,Sun,26-Sep,10,12,268,172,96,1,21,342,297,45,2,0.17,8.46,6.09,W
+Denver Broncos,New York Jets,Denver Broncos,New York Jets,3,Sun,26-Sep,0,23,343,223,120,1,11,162,119,43,2,4.68,27.58,-1.98,W
+Cleveland Browns,Chicago Bears,Cleveland Browns,Chicago Bears,3,Sun,26-Sep,6,26,418,203,215,0,6,47,1,46,0,6.11,19.73,-2.28,W
+Tampa Bay Buccaneers,Los Angeles Rams,Tampa Bay Buccaneers,Los Angeles Rams,3,Sun,26-Sep,34,27,446,411,35,0,22,407,331,76,0,15.15,-20.56,-3.43,L
+Buffalo Bills,Washington Football Team,Buffalo Bills,Washington Football Team,3,Sun,26-Sep,21,29,481,359,122,0,13,290,212,78,3,20.55,8.27,-7.29,W
+Arizona Cardinals,Jacksonville Jaguars,Arizona Cardinals,Jacksonville Jaguars,3,Sun,26-Sep,19,23,407,316,91,1,20,361,202,159,4,13.26,7.87,-9.13,W
+Los Angeles Chargers,Kansas City Chiefs,Los Angeles Chargers,Kansas City Chiefs,3,Sun,26-Sep,24,21,352,275,77,0,33,437,251,186,4,16.65,-9.49,-3.01,W
+Kansas City Chiefs,Los Angeles Chargers,Kansas City Chiefs,Los Angeles Chargers,3,Sun,26-Sep,30,33,437,251,186,4,21,352,275,77,0,9.49,-16.65,3.01,L
+Indianapolis Colts,Tennessee Titans,Indianapolis Colts,Tennessee Titans,3,Sun,26-Sep,25,19,265,178,87,0,24,368,188,180,3,3.98,-7.29,-4.86,L
+Dallas Cowboys,Philadelphia Eagles,Dallas Cowboys,Philadelphia Eagles,3,Mon,27-Sep,21,27,380,220,160,1,12,367,303,64,2,9.13,11.19,-0.01,W
+Miami Dolphins,Las Vegas Raiders,Miami Dolphins,Las Vegas Raiders,3,Sun,26-Sep,31,22,330,197,133,0,28,497,357,140,1,5.04,-7.21,-0.43,L
+Philadelphia Eagles,Dallas Cowboys,Philadelphia Eagles,Dallas Cowboys,3,Mon,27-Sep,41,12,367,303,64,2,27,380,220,160,1,-11.19,-9.13,0.01,L
+Atlanta Falcons,New York Giants,Atlanta Falcons,New York Giants,3,Sun,26-Sep,14,18,296,227,69,1,21,346,246,100,1,2.1,-2.33,3.38,W
+New York Giants,Atlanta Falcons,New York Giants,Atlanta Falcons,3,Sun,26-Sep,17,21,346,246,100,1,18,296,227,69,1,2.33,-2.1,-3.38,L
+Jacksonville Jaguars,Arizona Cardinals,Jacksonville Jaguars,Arizona Cardinals,3,Sun,26-Sep,31,20,361,202,159,4,23,407,316,91,1,-7.87,-13.26,9.13,L
+New York Jets,Denver Broncos,New York Jets,Denver Broncos,3,Sun,26-Sep,26,11,162,119,43,2,23,343,223,120,1,-27.58,-4.68,1.98,L
+Detroit Lions,Baltimore Ravens,Detroit Lions,Baltimore Ravens,3,Sun,26-Sep,19,22,285,192,93,0,15,387,271,116,1,5.76,-5.18,-1.42,L
+Green Bay Packers,San Francisco 49ers,Green Bay Packers,San Francisco 49ers,3,Sun,26-Sep,28,21,353,253,100,0,26,298,231,67,2,15.14,-12.19,-0.95,W
+Carolina Panthers,Houston Texans,Carolina Panthers,Houston Texans,3,Thu,23-Sep,9,28,407,290,117,0,14,193,151,42,0,14.35,5.6,-5.17,W
+New England Patriots,New Orleans Saints,New England Patriots,New Orleans Saints,3,Sun,26-Sep,28,16,300,251,49,3,19,252,110,142,0,-16.39,-3.67,5.4,L
+Oakland Raiders,Miami Dolphins,Oakland Raiders,Miami Dolphins,3,Sun,26-Sep,28,28,497,357,140,1,22,330,197,133,0,7.21,-5.04,0.43,W
+Los Angeles Rams,Tampa Bay Buccaneers,Los Angeles Rams,Tampa Bay Buccaneers,3,Sun,26-Sep,24,22,407,331,76,0,27,446,411,35,0,20.56,-15.15,3.43,W
+Baltimore Ravens,Detroit Lions,Baltimore Ravens,Detroit Lions,3,Sun,26-Sep,17,15,387,271,116,1,22,285,192,93,0,5.18,-5.76,1.42,W
+New Orleans Saints,New England Patriots,New Orleans Saints,New England Patriots,3,Sun,26-Sep,13,19,252,110,142,0,16,300,251,49,3,3.67,16.39,-5.4,W
+Seattle Seahawks,Minnesota Vikings,Seattle Seahawks,Minnesota Vikings,3,Sun,26-Sep,30,21,389,283,106,0,28,453,313,140,0,14.86,-20.96,-1.13,L
+Pittsburgh Steelers,Cincinnati Bengals,Pittsburgh Steelers,Cincinnati Bengals,3,Sun,26-Sep,24,21,342,297,45,2,12,268,172,96,1,-8.46,-0.17,-6.09,L
+Houston Texans,Carolina Panthers,Houston Texans,Carolina Panthers,3,Thu,23-Sep,24,14,193,151,42,0,28,407,290,117,0,-5.6,-14.35,5.17,L
+Tennessee Titans,Indianapolis Colts,Tennessee Titans,Indianapolis Colts,3,Sun,26-Sep,16,24,368,188,180,3,19,265,178,87,0,7.29,-3.98,4.86,W
+Minnesota Vikings,Seattle Seahawks,Minnesota Vikings,Seattle Seahawks,3,Sun,26-Sep,17,28,453,313,140,0,21,389,283,106,0,20.96,-14.86,1.13,W
+San Francisco 49ers,Seattle Seahawks,San Francisco 49ers,Seattle Seahawks,4,Sun,3-Oct,28,23,457,314,143,2,14,234,129,105,0,8.61,-2.2,-14.31,L
+Chicago Bears,Detroit Lions,Chicago Bears,Detroit Lions,4,Sun,3-Oct,14,20,373,185,188,1,23,351,261,90,2,12.01,-1.56,0.02,W
+Cincinnati Bengals,Jacksonville Jaguars,Cincinnati Bengals,Jacksonville Jaguars,4,Thu,30-Sep,21,21,420,342,78,0,21,341,202,139,0,20.93,-12.38,-6.5,W
+Denver Broncos,Baltimore Ravens,Denver Broncos,Baltimore Ravens,4,Sun,3-Oct,23,15,254,148,106,1,20,406,304,102,0,-10.92,-3.9,-1.59,L
+Cleveland Browns,Minnesota Vikings,Cleveland Browns,Minnesota Vikings,4,Sun,3-Oct,7,20,327,143,184,0,16,255,190,65,1,-4.58,7.71,2.13,W
+Tampa Bay Buccaneers,New England Patriots,Tampa Bay Buccaneers,New England Patriots,4,Sun,3-Oct,17,22,381,261,120,0,20,294,295,-1,2,5.45,-0.96,-2.94,W
+Buffalo Bills,Houston Texans,Buffalo Bills,Houston Texans,4,Sun,3-Oct,0,26,450,251,199,1,6,109,61,48,5,14.54,32.68,-6.4,W
+Arizona Cardinals,Los Angeles Rams,Arizona Cardinals,Los Angeles Rams,4,Sun,3-Oct,20,27,465,249,216,0,24,401,280,121,2,21.72,-8.94,2.64,W
+Los Angeles Chargers,Las Vegas Raiders,Los Angeles Chargers,Las Vegas Raiders,4,Mon,4-Oct,14,25,380,212,168,0,13,213,165,48,1,11.99,7.95,-2.22,W
+Kansas City Chiefs,Philadelphia Eagles,Kansas City Chiefs,Philadelphia Eagles,4,Sun,3-Oct,30,31,471,271,200,1,30,461,358,103,0,34.67,-21.32,-0.7,W
+Indianapolis Colts,Miami Dolphins,Indianapolis Colts,Miami Dolphins,4,Sun,3-Oct,17,20,349,210,139,1,13,203,168,35,2,8.09,1.62,4.01,W
+Dallas Cowboys,Carolina Panthers,Dallas Cowboys,Carolina Panthers,4,Sun,3-Oct,28,24,433,188,245,0,24,379,266,113,2,19.39,-10.49,1.46,W
+Miami Dolphins,Indianapolis Colts,Miami Dolphins,Indianapolis Colts,4,Sun,3-Oct,27,13,203,168,35,2,20,349,210,139,1,-1.62,-8.09,-4.01,L
+Philadelphia Eagles,Kansas City Chiefs,Philadelphia Eagles,Kansas City Chiefs,4,Sun,3-Oct,42,30,461,358,103,0,31,471,271,200,1,21.32,-34.67,0.7,L
+Atlanta Falcons,Washington Football Team,Atlanta Falcons,Washington Football Team,4,Sun,3-Oct,34,24,374,275,99,0,26,412,290,122,0,19.36,-18.15,-3.26,L
+New York Giants,New Orleans Saints,New York Giants,New Orleans Saints,4,Sun,3-Oct,21,21,485,402,83,1,21,405,235,170,1,15.58,-9.0,-1.58,W
+Jacksonville Jaguars,Cincinnati Bengals,Jacksonville Jaguars,Cincinnati Bengals,4,Thu,30-Sep,24,21,341,202,139,0,21,420,342,78,0,12.38,-20.93,6.5,L
+New York Jets,Tennessee Titans,New York Jets,Tennessee Titans,4,Sun,3-Oct,24,16,355,289,66,1,30,430,253,177,0,8.42,-2.8,-0.71,W
+Detroit Lions,Chicago Bears,Detroit Lions,Chicago Bears,4,Sun,3-Oct,24,23,351,261,90,2,20,373,185,188,1,1.56,-12.01,-0.02,L
+Green Bay Packers,Pittsburgh Steelers,Green Bay Packers,Pittsburgh Steelers,4,Sun,3-Oct,17,23,367,236,131,1,17,282,220,62,2,7.14,5.05,-3.23,W
+Carolina Panthers,Dallas Cowboys,Carolina Panthers,Dallas Cowboys,4,Sun,3-Oct,36,24,379,266,113,2,24,433,188,245,0,10.49,-19.39,-1.46,L
+New England Patriots,Tampa Bay Buccaneers,New England Patriots,Tampa Bay Buccaneers,4,Sun,3-Oct,19,20,294,295,-1,2,22,381,261,120,0,0.96,-5.45,2.94,L
+Oakland Raiders,Los Angeles Chargers,Oakland Raiders,Los Angeles Chargers,4,Mon,4-Oct,28,13,213,165,48,1,25,380,212,168,0,-7.95,-11.99,2.22,L
+Los Angeles Rams,Arizona Cardinals,Los Angeles Rams,Arizona Cardinals,4,Sun,3-Oct,37,24,401,280,121,2,27,465,249,216,0,8.94,-21.72,-2.64,L
+Baltimore Ravens,Denver Broncos,Baltimore Ravens,Denver Broncos,4,Sun,3-Oct,7,20,406,304,102,0,15,254,148,106,1,3.9,10.92,1.59,W
+New Orleans Saints,New York Giants,New Orleans Saints,New York Giants,4,Sun,3-Oct,27,21,405,235,170,1,21,485,402,83,1,9.0,-15.58,1.58,L
+Seattle Seahawks,San Francisco 49ers,Seattle Seahawks,San Francisco 49ers,4,Sun,3-Oct,21,14,234,129,105,0,23,457,314,143,2,2.2,-8.61,14.31,W
+Pittsburgh Steelers,Green Bay Packers,Pittsburgh Steelers,Green Bay Packers,4,Sun,3-Oct,27,17,282,220,62,2,23,367,236,131,1,-5.05,-7.14,3.23,L
+Houston Texans,Buffalo Bills,Houston Texans,Buffalo Bills,4,Sun,3-Oct,40,6,109,61,48,5,26,450,251,199,1,-32.68,-14.54,6.4,L
+Tennessee Titans,New York Jets,Tennessee Titans,New York Jets,4,Sun,3-Oct,27,30,430,253,177,0,16,355,289,66,1,2.8,-8.42,0.71,L
+Minnesota Vikings,Cleveland Browns,Minnesota Vikings,Cleveland Browns,4,Sun,3-Oct,14,16,255,190,65,1,20,327,143,184,0,-7.71,4.58,-2.13,L
+San Francisco 49ers,Arizona Cardinals,San Francisco 49ers,Arizona Cardinals,5,Sun,10-Oct,17,19,338,186,152,1,20,304,210,94,1,-6.53,-1.74,-0.47,L
+Chicago Bears,Las Vegas Raiders,Chicago Bears,Las Vegas Raiders,5,Sun,10-Oct,9,19,252,109,143,0,16,259,188,71,1,2.39,7.14,2.05,W
+Cincinnati Bengals,Green Bay Packers,Cincinnati Bengals,Green Bay Packers,5,Sun,10-Oct,25,18,367,264,103,2,21,466,333,133,1,3.92,-9.92,3.51,L
+Denver Broncos,Pittsburgh Steelers,Denver Broncos,Pittsburgh Steelers,5,Sun,10-Oct,27,17,374,268,106,1,19,391,244,147,1,5.37,-11.44,-1.98,L
+Cleveland Browns,Los Angeles Chargers,Cleveland Browns,Los Angeles Chargers,5,Sun,10-Oct,47,25,531,301,230,0,27,493,381,112,1,22.52,-31.81,3.45,L
+Tampa Bay Buccaneers,Miami Dolphins,Tampa Bay Buccaneers,Miami Dolphins,5,Sun,10-Oct,17,33,558,437,121,0,17,301,262,39,2,40.54,-4.28,-3.08,W
+Buffalo Bills,Kansas City Chiefs,Buffalo Bills,Kansas City Chiefs,5,Sun,10-Oct,20,20,436,315,121,0,29,392,272,120,4,19.84,1.2,-1.5,W
+Arizona Cardinals,San Francisco 49ers,Arizona Cardinals,San Francisco 49ers,5,Sun,10-Oct,10,20,304,210,94,1,19,338,186,152,1,1.74,6.53,0.47,W
+Los Angeles Chargers,Cleveland Browns,Los Angeles Chargers,Cleveland Browns,5,Sun,10-Oct,42,27,493,381,112,1,25,531,301,230,0,31.81,-22.52,-3.45,W
+Kansas City Chiefs,Buffalo Bills,Kansas City Chiefs,Buffalo Bills,5,Sun,10-Oct,38,29,392,272,120,4,20,436,315,121,0,-1.2,-19.84,1.5,L
+Indianapolis Colts,Baltimore Ravens,Indianapolis Colts,Baltimore Ravens,5,Mon,11-Oct,31,29,513,390,123,1,30,523,437,86,1,24.0,-21.15,-6.85,L
+Dallas Cowboys,New York Giants,Dallas Cowboys,New York Giants,5,Sun,10-Oct,20,26,515,314,201,2,20,367,294,73,2,20.79,2.65,2.08,W
+Miami Dolphins,Tampa Bay Buccaneers,Miami Dolphins,Tampa Bay Buccaneers,5,Sun,10-Oct,45,17,301,262,39,2,33,558,437,121,0,4.28,-40.54,3.08,L
+Philadelphia Eagles,Carolina Panthers,Philadelphia Eagles,Carolina Panthers,5,Sun,10-Oct,18,15,273,182,91,2,17,267,158,109,3,-15.13,16.27,3.99,W
+Atlanta Falcons,New York Jets,Atlanta Falcons,New York Jets,5,Sun,10-Oct,20,28,450,342,108,2,17,230,166,64,1,17.36,-3.2,-4.18,W
+New York Giants,Dallas Cowboys,New York Giants,Dallas Cowboys,5,Sun,10-Oct,44,20,367,294,73,2,26,515,314,201,2,-2.65,-20.79,-2.08,L
+Jacksonville Jaguars,Tennessee Titans,Jacksonville Jaguars,Tennessee Titans,5,Sun,10-Oct,37,24,454,256,198,2,23,368,184,184,0,3.06,-17.49,-2.3,L
+New York Jets,Atlanta Falcons,New York Jets,Atlanta Falcons,5,Sun,10-Oct,27,17,230,166,64,1,28,450,342,108,2,3.2,-17.36,4.18,L
+Detroit Lions,Minnesota Vikings,Detroit Lions,Minnesota Vikings,5,Sun,10-Oct,19,22,288,180,108,2,18,384,264,120,2,-7.67,0.5,4.46,L
+Green Bay Packers,Cincinnati Bengals,Green Bay Packers,Cincinnati Bengals,5,Sun,10-Oct,22,21,466,333,133,1,18,367,264,103,2,9.92,-3.92,-3.51,W
+Carolina Panthers,Philadelphia Eagles,Carolina Panthers,Philadelphia Eagles,5,Sun,10-Oct,21,17,267,158,109,3,15,273,182,91,2,-16.27,15.13,-3.99,L
+New England Patriots,Houston Texans,New England Patriots,Houston Texans,5,Sun,10-Oct,22,21,352,226,126,2,14,360,293,67,1,6.89,-13.76,8.6,W
+Oakland Raiders,Chicago Bears,Oakland Raiders,Chicago Bears,5,Sun,10-Oct,20,16,259,188,71,1,19,252,109,143,0,-7.14,-2.39,-2.05,L
+Los Angeles Rams,Seattle Seahawks,Los Angeles Rams,Seattle Seahawks,5,Thu,7-Oct,17,24,476,358,118,1,22,354,262,92,2,13.76,-6.71,-0.05,W
+Baltimore Ravens,Indianapolis Colts,Baltimore Ravens,Indianapolis Colts,5,Mon,11-Oct,25,30,523,437,86,1,29,513,390,123,1,21.15,-24.0,6.85,W
+New Orleans Saints,Washington Football Team,New Orleans Saints,Washington Football Team,5,Sun,10-Oct,22,18,369,271,98,2,26,373,242,131,2,8.56,7.31,-3.41,W
+Seattle Seahawks,Los Angeles Rams,Seattle Seahawks,Los Angeles Rams,5,Thu,7-Oct,26,22,354,262,92,2,24,476,358,118,1,6.71,-13.76,0.05,L
+Pittsburgh Steelers,Denver Broncos,Pittsburgh Steelers,Denver Broncos,5,Sun,10-Oct,19,19,391,244,147,1,17,374,268,106,1,11.44,-5.37,1.98,W
+Houston Texans,New England Patriots,Houston Texans,New England Patriots,5,Sun,10-Oct,25,14,360,293,67,1,21,352,226,126,2,13.76,-6.89,-8.6,L
+Tennessee Titans,Jacksonville Jaguars,Tennessee Titans,Jacksonville Jaguars,5,Sun,10-Oct,19,23,368,184,184,0,24,454,256,198,2,17.49,-3.06,2.3,W
+Minnesota Vikings,Detroit Lions,Minnesota Vikings,Detroit Lions,5,Sun,10-Oct,17,18,384,264,120,2,22,288,180,108,2,-0.5,7.67,-4.46,W
+Chicago Bears,Green Bay Packers,Chicago Bears,Green Bay Packers,6,Sun,17-Oct,24,21,277,137,140,1,22,323,169,154,0,4.93,-14.93,-0.3,L
+Cincinnati Bengals,Detroit Lions,Cincinnati Bengals,Detroit Lions,6,Sun,17-Oct,11,20,398,256,142,1,15,228,192,36,1,16.6,8.89,-0.46,W
+Denver Broncos,Las Vegas Raiders,Denver Broncos,Las Vegas Raiders,6,Sun,17-Oct,34,25,421,309,112,4,16,426,340,86,0,2.97,-16.95,1.18,L
+Cleveland Browns,Arizona Cardinals,Cleveland Browns,Arizona Cardinals,6,Sun,17-Oct,37,16,290,217,73,3,24,352,208,144,0,-10.01,-16.91,1.93,L
+Tampa Bay Buccaneers,Philadelphia Eagles,Tampa Bay Buccaneers,Philadelphia Eagles,6,Thu,14-Oct,22,27,399,297,102,1,16,213,113,100,1,15.69,-9.52,3.01,W
+Buffalo Bills,Tennessee Titans,Buffalo Bills,Tennessee Titans,6,Mon,18-Oct,34,28,417,335,82,1,16,362,216,146,1,13.13,-15.97,-0.79,L
+Arizona Cardinals,Cleveland Browns,Arizona Cardinals,Cleveland Browns,6,Sun,17-Oct,14,24,352,208,144,0,16,290,217,73,3,16.91,10.01,-1.93,W
+Los Angeles Chargers,Baltimore Ravens,Los Angeles Chargers,Baltimore Ravens,6,Sun,17-Oct,34,14,208,182,26,1,27,327,140,187,2,-13.93,-7.5,-4.48,L
+Kansas City Chiefs,Washington Football Team,Kansas City Chiefs,Washington Football Team,6,Sun,17-Oct,13,29,499,390,109,3,15,276,182,94,2,9.15,5.66,1.44,W
+Indianapolis Colts,Houston Texans,Indianapolis Colts,Houston Texans,6,Sun,17-Oct,3,15,388,214,174,0,19,353,229,124,3,17.25,9.92,-0.25,W
+Dallas Cowboys,New England Patriots,Dallas Cowboys,New England Patriots,6,Sun,17-Oct,29,32,567,445,122,2,17,335,215,120,2,9.87,-0.65,-0.9,W
+Miami Dolphins,Jacksonville Jaguars,Miami Dolphins,Jacksonville Jaguars,6,Sun,17-Oct,23,23,431,354,77,1,21,396,312,84,1,6.22,-4.44,-2.72,L
+Philadelphia Eagles,Tampa Bay Buccaneers,Philadelphia Eagles,Tampa Bay Buccaneers,6,Thu,14-Oct,28,16,213,113,100,1,27,399,297,102,1,9.52,-15.69,-3.01,L
+New York Giants,Los Angeles Rams,New York Giants,Los Angeles Rams,6,Sun,17-Oct,38,21,261,201,60,4,22,365,234,131,2,-19.06,-7.63,0.96,L
+Jacksonville Jaguars,Miami Dolphins,Jacksonville Jaguars,Miami Dolphins,6,Sun,17-Oct,20,21,396,312,84,1,23,431,354,77,1,4.44,-6.22,2.72,W
+Detroit Lions,Cincinnati Bengals,Detroit Lions,Cincinnati Bengals,6,Sun,17-Oct,34,15,228,192,36,1,20,398,256,142,1,-8.89,-16.6,0.46,L
+Green Bay Packers,Chicago Bears,Green Bay Packers,Chicago Bears,6,Sun,17-Oct,14,22,323,169,154,0,21,277,137,140,1,14.93,-4.93,0.3,W
+Carolina Panthers,Minnesota Vikings,Carolina Panthers,Minnesota Vikings,6,Sun,17-Oct,34,20,306,188,118,3,26,571,373,198,1,-9.64,-8.77,12.64,L
+New England Patriots,Dallas Cowboys,New England Patriots,Dallas Cowboys,6,Sun,17-Oct,35,17,335,215,120,2,32,567,445,122,2,0.65,-9.87,0.9,L
+Oakland Raiders,Denver Broncos,Oakland Raiders,Denver Broncos,6,Sun,17-Oct,24,16,426,340,86,0,25,421,309,112,4,16.95,-2.97,-1.18,W
+Los Angeles Rams,New York Giants,Los Angeles Rams,New York Giants,6,Sun,17-Oct,11,22,365,234,131,2,21,261,201,60,4,7.63,19.06,-0.96,W
+Baltimore Ravens,Los Angeles Chargers,Baltimore Ravens,Los Angeles Chargers,6,Sun,17-Oct,6,27,327,140,187,2,14,208,182,26,1,7.5,13.93,4.48,W
+Seattle Seahawks,Pittsburgh Steelers,Seattle Seahawks,Pittsburgh Steelers,6,Sun,17-Oct,23,18,309,165,144,1,22,345,226,119,1,-3.89,1.52,-1.09,L
+Pittsburgh Steelers,Seattle Seahawks,Pittsburgh Steelers,Seattle Seahawks,6,Sun,17-Oct,20,22,345,226,119,1,18,309,165,144,1,-1.52,3.89,1.09,W
+Houston Texans,Indianapolis Colts,Houston Texans,Indianapolis Colts,6,Sun,17-Oct,31,19,353,229,124,3,15,388,214,174,0,-9.92,-17.25,0.25,L
+Tennessee Titans,Buffalo Bills,Tennessee Titans,Buffalo Bills,6,Mon,18-Oct,31,16,362,216,146,1,28,417,335,82,1,15.97,-13.13,0.79,W
+Minnesota Vikings,Carolina Panthers,Minnesota Vikings,Carolina Panthers,6,Sun,17-Oct,28,26,571,373,198,1,20,306,188,118,3,8.77,9.64,-12.64,W
+San Francisco 49ers,Indianapolis Colts,San Francisco 49ers,Indianapolis Colts,7,Sun,24-Oct,30,13,280,169,111,4,17,295,147,148,2,-15.3,-1.16,4.24,L
+Chicago Bears,Tampa Bay Buccaneers,Chicago Bears,Tampa Bay Buccaneers,7,Sun,24-Oct,38,17,311,168,143,5,28,408,226,182,1,-18.58,-16.41,4.77,L
+Cincinnati Bengals,Baltimore Ravens,Cincinnati Bengals,Baltimore Ravens,7,Sun,24-Oct,17,19,520,409,111,1,20,393,278,115,0,19.58,2.69,-2.13,W
+Denver Broncos,Cleveland Browns,Denver Broncos,Cleveland Browns,7,Thu,21-Oct,17,15,223,182,41,1,23,376,194,182,0,4.39,-13.24,1.9,L
+Cleveland Browns,Denver Broncos,Cleveland Browns,Denver Broncos,7,Thu,21-Oct,14,23,376,194,182,0,15,223,182,41,1,13.24,-4.39,-1.9,W
+Tampa Bay Buccaneers,Chicago Bears,Tampa Bay Buccaneers,Chicago Bears,7,Sun,24-Oct,3,28,408,226,182,1,17,311,168,143,5,16.41,18.58,-4.77,W
+Arizona Cardinals,Houston Texans,Arizona Cardinals,Houston Texans,7,Sun,24-Oct,5,24,397,225,172,1,8,160,118,42,1,13.37,23.71,-10.47,W
+Kansas City Chiefs,Tennessee Titans,Kansas City Chiefs,Tennessee Titans,7,Sun,24-Oct,27,22,334,257,77,3,24,369,266,103,1,-7.62,-15.54,-0.06,L
+Indianapolis Colts,San Francisco 49ers,Indianapolis Colts,San Francisco 49ers,7,Sun,24-Oct,18,17,295,147,148,2,13,280,169,111,4,1.16,15.3,-4.24,W
+Miami Dolphins,Atlanta Falcons,Miami Dolphins,Atlanta Falcons,7,Sun,24-Oct,30,27,413,281,132,2,21,397,325,72,2,10.04,-10.55,-0.22,L
+Philadelphia Eagles,Las Vegas Raiders,Philadelphia Eagles,Las Vegas Raiders,7,Sun,24-Oct,33,22,358,223,135,2,23,442,323,119,1,4.67,-18.0,-1.38,L
+Atlanta Falcons,Miami Dolphins,Atlanta Falcons,Miami Dolphins,7,Sun,24-Oct,28,21,397,325,72,2,27,413,281,132,2,10.55,-10.04,0.22,W
+New York Giants,Carolina Panthers,New York Giants,Carolina Panthers,7,Sun,24-Oct,3,21,302,199,103,0,11,173,117,56,1,-3.21,22.46,2.91,W
+New York Jets,New England Patriots,New York Jets,New England Patriots,7,Sun,24-Oct,54,18,299,237,62,3,32,551,403,148,0,-5.92,-37.61,-0.06,L
+Detroit Lions,Los Angeles Rams,Detroit Lions,Los Angeles Rams,7,Sun,24-Oct,28,19,415,278,137,2,22,374,327,47,0,3.32,-20.08,6.99,L
+Green Bay Packers,Washington Football Team,Green Bay Packers,Washington Football Team,7,Sun,24-Oct,10,19,304,247,57,1,25,430,235,195,2,8.64,0.39,3.31,W
+Carolina Panthers,New York Giants,Carolina Panthers,New York Giants,7,Sun,24-Oct,25,11,173,117,56,1,21,302,199,103,0,-22.46,3.21,-2.91,L
+New England Patriots,New York Jets,New England Patriots,New York Jets,7,Sun,24-Oct,13,32,551,403,148,0,18,299,237,62,3,37.61,5.92,0.06,W
+Oakland Raiders,Philadelphia Eagles,Oakland Raiders,Philadelphia Eagles,7,Sun,24-Oct,22,23,442,323,119,1,22,358,223,135,2,18.0,-4.67,1.38,W
+Los Angeles Rams,Detroit Lions,Los Angeles Rams,Detroit Lions,7,Sun,24-Oct,19,22,374,327,47,0,19,415,278,137,2,20.08,-3.32,-6.99,W
+Baltimore Ravens,Cincinnati Bengals,Baltimore Ravens,Cincinnati Bengals,7,Sun,24-Oct,41,20,393,278,115,0,19,520,409,111,1,-2.69,-19.58,2.13,L
+New Orleans Saints,Seattle Seahawks,New Orleans Saints,Seattle Seahawks,7,Mon,25-Oct,10,21,304,210,94,1,14,219,129,90,0,-3.46,6.87,5.19,W
+Seattle Seahawks,New Orleans Saints,Seattle Seahawks,New Orleans Saints,7,Mon,25-Oct,13,14,219,129,90,0,21,304,210,94,1,-6.87,3.46,-5.19,L
+Houston Texans,Arizona Cardinals,Houston Texans,Arizona Cardinals,7,Sun,24-Oct,31,8,160,118,42,1,24,397,225,172,1,-23.71,-13.37,10.47,L
+Tennessee Titans,Kansas City Chiefs,Tennessee Titans,Kansas City Chiefs,7,Sun,24-Oct,3,24,369,266,103,1,22,334,257,77,3,15.54,7.62,0.06,W
+San Francisco 49ers,Chicago Bears,San Francisco 49ers,Chicago Bears,8,Sun,31-Oct,22,21,467,322,145,0,22,324,148,176,1,21.75,-9.87,-2.14,W
+Chicago Bears,San Francisco 49ers,Chicago Bears,San Francisco 49ers,8,Sun,31-Oct,33,22,324,148,176,1,21,467,322,145,0,9.87,-21.75,2.14,L
+Cincinnati Bengals,New York Jets,Cincinnati Bengals,New York Jets,8,Sun,31-Oct,34,18,318,277,41,1,32,511,414,97,3,3.26,-8.01,4.33,L
+Denver Broncos,Washington Football Team,Denver Broncos,Washington Football Team,8,Sun,31-Oct,10,17,273,190,83,1,21,342,230,112,2,5.1,-1.75,2.71,W
+Cleveland Browns,Pittsburgh Steelers,Cleveland Browns,Pittsburgh Steelers,8,Sun,31-Oct,15,19,306,210,96,1,21,370,255,115,0,-2.67,-1.77,0.11,L
+Tampa Bay Buccaneers,New Orleans Saints,Tampa Bay Buccaneers,New Orleans Saints,8,Sun,31-Oct,36,16,421,350,71,3,26,361,209,152,0,0.98,-12.99,-1.1,L
+Buffalo Bills,Miami Dolphins,Buffalo Bills,Miami Dolphins,8,Sun,31-Oct,11,24,351,249,102,0,16,262,194,68,2,4.52,8.74,1.89,W
+Arizona Cardinals,Green Bay Packers,Arizona Cardinals,Green Bay Packers,8,Thu,28-Oct,24,22,334,260,74,3,24,335,184,151,0,9.86,-7.88,-6.65,L
+Kansas City Chiefs,New York Giants,Kansas City Chiefs,New York Giants,8,Mon,1-Nov,17,29,368,261,107,2,18,300,228,72,1,2.01,2.3,2.73,W
+Indianapolis Colts,Tennessee Titans,Indianapolis Colts,Tennessee Titans,8,Sun,31-Oct,34,24,307,224,83,3,18,340,247,93,2,3.55,-5.81,-0.74,L
+Dallas Cowboys,Minnesota Vikings,Dallas Cowboys,Minnesota Vikings,8,Sun,31-Oct,16,23,419,341,78,2,17,278,177,101,0,6.74,2.03,-6.34,W
+Miami Dolphins,Buffalo Bills,Miami Dolphins,Buffalo Bills,8,Sun,31-Oct,26,16,262,194,68,2,24,351,249,102,0,-8.74,-4.52,-1.89,L
+Philadelphia Eagles,Detroit Lions,Philadelphia Eagles,Detroit Lions,8,Sun,31-Oct,6,27,350,114,236,0,15,228,171,57,1,18.7,17.4,1.69,W
+Atlanta Falcons,Carolina Panthers,Atlanta Falcons,Carolina Panthers,8,Sun,31-Oct,19,17,213,131,82,2,21,332,129,203,1,-2.84,-0.86,-4.14,L
+New York Giants,Kansas City Chiefs,New York Giants,Kansas City Chiefs,8,Mon,1-Nov,20,18,300,228,72,1,29,368,261,107,2,-2.3,-2.01,-2.73,L
+Jacksonville Jaguars,Seattle Seahawks,Jacksonville Jaguars,Seattle Seahawks,8,Sun,31-Oct,31,20,309,227,82,1,17,229,160,69,0,-6.73,-7.46,-7.41,L
+New York Jets,Cincinnati Bengals,New York Jets,Cincinnati Bengals,8,Sun,31-Oct,31,32,511,414,97,3,18,318,277,41,1,8.01,-3.26,-4.33,W
+Detroit Lions,Philadelphia Eagles,Detroit Lions,Philadelphia Eagles,8,Sun,31-Oct,44,15,228,171,57,1,27,350,114,236,0,-17.4,-18.7,-1.69,L
+Green Bay Packers,Arizona Cardinals,Green Bay Packers,Arizona Cardinals,8,Thu,28-Oct,21,24,335,184,151,0,22,334,260,74,3,7.88,-9.86,6.65,W
+Carolina Panthers,Atlanta Falcons,Carolina Panthers,Atlanta Falcons,8,Sun,31-Oct,13,21,332,129,203,1,17,213,131,82,2,0.86,2.84,4.14,W
+New England Patriots,Los Angeles Chargers,New England Patriots,Los Angeles Chargers,8,Sun,31-Oct,24,21,352,210,142,1,17,369,206,163,2,-1.47,-1.35,9.98,W
+Los Angeles Rams,Houston Texans,Los Angeles Rams,Houston Texans,8,Sun,31-Oct,22,26,467,302,165,0,18,323,279,44,1,22.2,-1.75,-8.01,W
+New Orleans Saints,Tampa Bay Buccaneers,New Orleans Saints,Tampa Bay Buccaneers,8,Sun,31-Oct,27,26,361,209,152,0,16,421,350,71,3,12.99,-0.98,1.1,W
+Seattle Seahawks,Jacksonville Jaguars,Seattle Seahawks,Jacksonville Jaguars,8,Sun,31-Oct,7,17,229,160,69,0,20,309,227,82,1,7.46,6.73,7.41,W
+Pittsburgh Steelers,Cleveland Browns,Pittsburgh Steelers,Cleveland Browns,8,Sun,31-Oct,10,21,370,255,115,0,19,306,210,96,1,1.77,2.67,-0.11,W
+Houston Texans,Los Angeles Rams,Houston Texans,Los Angeles Rams,8,Sun,31-Oct,38,18,323,279,44,1,26,467,302,165,0,1.75,-22.2,8.01,L
+Tennessee Titans,Indianapolis Colts,Tennessee Titans,Indianapolis Colts,8,Sun,31-Oct,31,18,340,247,93,2,24,307,224,83,3,5.81,-3.55,0.74,W
+Minnesota Vikings,Dallas Cowboys,Minnesota Vikings,Dallas Cowboys,8,Sun,31-Oct,20,17,278,177,101,0,23,419,341,78,2,-2.03,-6.74,6.34,L
+San Francisco 49ers,Arizona Cardinals,San Francisco 49ers,Arizona Cardinals,9,Sun,7-Nov,31,22,337,298,39,3,22,437,274,163,0,2.1,-17.45,2.39,L
+Chicago Bears,Pittsburgh Steelers,Chicago Bears,Pittsburgh Steelers,9,Mon,8-Nov,29,20,414,278,136,2,20,280,175,105,1,4.26,-8.46,4.79,L
+Cincinnati Bengals,Cleveland Browns,Cincinnati Bengals,Cleveland Browns,9,Sun,7-Nov,41,25,348,263,85,3,14,361,208,153,0,-15.34,-14.44,4.5,L
+Denver Broncos,Dallas Cowboys,Denver Broncos,Dallas Cowboys,9,Sun,7-Nov,16,23,407,217,190,0,14,290,212,78,2,12.79,5.92,-1.79,W
+Cleveland Browns,Cincinnati Bengals,Cleveland Browns,Cincinnati Bengals,9,Sun,7-Nov,16,14,361,208,153,0,25,348,263,85,3,14.44,15.34,-4.5,W
+Buffalo Bills,Jacksonville Jaguars,Buffalo Bills,Jacksonville Jaguars,9,Sun,7-Nov,9,17,301,229,72,3,16,218,139,79,1,-12.53,8.4,-1.32,L
+Arizona Cardinals,San Francisco 49ers,Arizona Cardinals,San Francisco 49ers,9,Sun,7-Nov,17,22,437,274,163,0,22,337,298,39,3,17.45,-2.1,-2.39,W
+Los Angeles Chargers,Philadelphia Eagles,Los Angeles Chargers,Philadelphia Eagles,9,Sun,7-Nov,24,28,445,356,89,0,20,331,155,176,0,20.72,-17.56,-1.49,W
+Kansas City Chiefs,Green Bay Packers,Kansas City Chiefs,Green Bay Packers,9,Sun,7-Nov,7,14,237,160,77,0,19,301,179,122,2,-6.84,0.97,12.35,W
+Indianapolis Colts,New York Jets,Indianapolis Colts,New York Jets,9,Thu,4-Nov,30,28,532,272,260,0,30,486,398,88,2,32.44,-17.45,0.23,W
+Dallas Cowboys,Denver Broncos,Dallas Cowboys,Denver Broncos,9,Sun,7-Nov,30,14,290,212,78,2,23,407,217,190,0,-5.92,-12.79,1.79,L
+Miami Dolphins,Houston Texans,Miami Dolphins,Houston Texans,9,Sun,7-Nov,9,22,262,215,47,5,14,272,199,73,4,-8.14,19.43,-4.21,W
+Philadelphia Eagles,Los Angeles Chargers,Philadelphia Eagles,Los Angeles Chargers,9,Sun,7-Nov,27,20,331,155,176,0,28,445,356,89,0,17.56,-20.72,1.49,L
+Atlanta Falcons,New Orleans Saints,Atlanta Falcons,New Orleans Saints,9,Sun,7-Nov,25,18,366,332,34,0,26,376,267,109,1,7.33,-1.35,-3.25,W
+New York Giants,Las Vegas Raiders,New York Giants,Las Vegas Raiders,9,Sun,7-Nov,16,16,247,98,149,1,24,403,286,117,3,0.51,1.72,5.84,W
+Jacksonville Jaguars,Buffalo Bills,Jacksonville Jaguars,Buffalo Bills,9,Sun,7-Nov,6,16,218,139,79,1,17,301,229,72,3,-8.4,12.53,1.32,W
+New York Jets,Indianapolis Colts,New York Jets,Indianapolis Colts,9,Thu,4-Nov,45,30,486,398,88,2,28,532,272,260,0,17.45,-32.44,-0.23,L
+Green Bay Packers,Kansas City Chiefs,Green Bay Packers,Kansas City Chiefs,9,Sun,7-Nov,13,19,301,179,122,2,14,237,160,77,0,-0.97,6.84,-12.35,L
+Carolina Panthers,New England Patriots,Carolina Panthers,New England Patriots,9,Sun,7-Nov,24,13,240,162,78,3,17,273,122,151,2,-26.35,3.56,5.26,L
+New England Patriots,Carolina Panthers,New England Patriots,Carolina Panthers,9,Sun,7-Nov,6,17,273,122,151,2,13,240,162,78,3,-3.56,26.35,-5.26,W
+Oakland Raiders,New York Giants,Oakland Raiders,New York Giants,9,Sun,7-Nov,23,24,403,286,117,3,16,247,98,149,1,-1.72,-0.51,-5.84,L
+Los Angeles Rams,Tennessee Titans,Los Angeles Rams,Tennessee Titans,9,Sun,7-Nov,28,22,347,253,94,2,16,194,125,69,1,-11.78,-1.15,-0.53,L
+Baltimore Ravens,Minnesota Vikings,Baltimore Ravens,Minnesota Vikings,9,Sun,7-Nov,31,36,500,253,247,2,13,318,187,131,0,20.4,-9.21,-8.25,W
+New Orleans Saints,Atlanta Falcons,New Orleans Saints,Atlanta Falcons,9,Sun,7-Nov,27,26,376,267,109,1,18,366,332,34,0,1.35,-7.33,3.25,L
+Pittsburgh Steelers,Chicago Bears,Pittsburgh Steelers,Chicago Bears,9,Mon,8-Nov,27,20,280,175,105,1,20,414,278,136,2,8.46,-4.26,-4.79,W
+Houston Texans,Miami Dolphins,Houston Texans,Miami Dolphins,9,Sun,7-Nov,17,14,272,199,73,4,22,262,215,47,5,-19.43,8.14,4.21,L
+Tennessee Titans,Los Angeles Rams,Tennessee Titans,Los Angeles Rams,9,Sun,7-Nov,16,16,194,125,69,1,22,347,253,94,2,1.15,11.78,0.53,W
+Minnesota Vikings,Baltimore Ravens,Minnesota Vikings,Baltimore Ravens,9,Sun,7-Nov,34,13,318,187,131,0,36,500,253,247,2,9.21,-20.4,8.25,L
+San Francisco 49ers,Los Angeles Rams,San Francisco 49ers,Los Angeles Rams,10,Mon,15-Nov,10,20,335,179,156,0,16,278,226,52,2,11.33,7.18,0.7,W
+Denver Broncos,Philadelphia Eagles,Denver Broncos,Philadelphia Eagles,10,Sun,14-Nov,30,17,308,212,96,1,22,386,170,216,1,-6.62,-8.45,0.91,L
+Cleveland Browns,New England Patriots,Cleveland Browns,New England Patriots,10,Sun,14-Nov,45,17,217,118,99,1,30,452,268,184,0,-9.48,-31.28,2.69,L
+Tampa Bay Buccaneers,Washington Football Team,Tampa Bay Buccaneers,Washington Football Team,10,Sun,14-Nov,29,14,273,220,53,2,23,320,226,94,1,3.21,-10.01,-0.67,L
+Buffalo Bills,New York Jets,Buffalo Bills,New York Jets,10,Sun,14-Nov,17,26,489,350,139,2,22,366,296,70,5,22.44,5.27,-0.62,W
+Arizona Cardinals,Carolina Panthers,Arizona Cardinals,Carolina Panthers,10,Sun,14-Nov,34,11,169,104,65,2,24,341,175,166,2,-19.35,-2.27,-1.02,L
+Los Angeles Chargers,Minnesota Vikings,Los Angeles Chargers,Minnesota Vikings,10,Sun,14-Nov,27,20,253,171,82,1,24,381,278,103,1,3.95,-8.75,-2.56,L
+Kansas City Chiefs,Las Vegas Raiders,Kansas City Chiefs,Las Vegas Raiders,10,Sun,14-Nov,14,29,516,422,94,1,15,299,249,50,2,34.37,1.08,-7.21,W
+Indianapolis Colts,Jacksonville Jaguars,Indianapolis Colts,Jacksonville Jaguars,10,Sun,14-Nov,17,15,295,168,127,0,15,331,152,179,1,-4.81,4.43,6.79,W
+Dallas Cowboys,Atlanta Falcons,Dallas Cowboys,Atlanta Falcons,10,Sun,14-Nov,3,22,431,317,114,1,11,214,111,103,3,16.18,22.4,1.92,W
+Miami Dolphins,Baltimore Ravens,Miami Dolphins,Baltimore Ravens,10,Thu,11-Nov,10,17,350,290,60,0,23,304,210,94,2,-4.72,13.81,0.84,W
+Philadelphia Eagles,Denver Broncos,Philadelphia Eagles,Denver Broncos,10,Sun,14-Nov,13,22,386,170,216,1,17,308,212,96,1,8.45,6.62,-0.91,W
+Atlanta Falcons,Dallas Cowboys,Atlanta Falcons,Dallas Cowboys,10,Sun,14-Nov,43,11,214,111,103,3,22,431,317,114,1,-22.4,-16.18,-1.92,L
+Jacksonville Jaguars,Indianapolis Colts,Jacksonville Jaguars,Indianapolis Colts,10,Sun,14-Nov,23,15,331,152,179,1,15,295,168,127,0,-4.43,4.81,-6.79,L
+New York Jets,Buffalo Bills,New York Jets,Buffalo Bills,10,Sun,14-Nov,45,22,366,296,70,5,26,489,350,139,2,-5.27,-22.44,0.62,L
+Detroit Lions,Pittsburgh Steelers,Detroit Lions,Pittsburgh Steelers,10,Sun,14-Nov,16,17,306,77,229,0,22,387,242,145,3,-5.57,6.61,-1.04,T
+Green Bay Packers,Seattle Seahawks,Green Bay Packers,Seattle Seahawks,10,Sun,14-Nov,0,22,393,287,106,1,15,208,133,75,2,8.95,11.44,-5.23,W
+Carolina Panthers,Arizona Cardinals,Carolina Panthers,Arizona Cardinals,10,Sun,14-Nov,10,24,341,175,166,2,11,169,104,65,2,2.27,19.35,1.02,W
+New England Patriots,Cleveland Browns,New England Patriots,Cleveland Browns,10,Sun,14-Nov,7,30,452,268,184,0,17,217,118,99,1,31.28,9.48,-2.69,W
+Oakland Raiders,Kansas City Chiefs,Oakland Raiders,Kansas City Chiefs,10,Sun,14-Nov,41,15,299,249,50,2,29,516,422,94,1,-1.08,-34.37,7.21,L
+Los Angeles Rams,San Francisco 49ers,Los Angeles Rams,San Francisco 49ers,10,Mon,15-Nov,31,16,278,226,52,2,20,335,179,156,0,-7.18,-11.33,-0.7,L
+Baltimore Ravens,Miami Dolphins,Baltimore Ravens,Miami Dolphins,10,Thu,11-Nov,22,23,304,210,94,2,17,350,290,60,0,-13.81,4.72,-0.84,L
+New Orleans Saints,Tennessee Titans,New Orleans Saints,Tennessee Titans,10,Sun,14-Nov,23,22,373,287,86,1,17,264,198,66,0,12.34,-1.15,-13.69,L
+Seattle Seahawks,Green Bay Packers,Seattle Seahawks,Green Bay Packers,10,Sun,14-Nov,17,15,208,133,75,2,22,393,287,106,1,-11.44,-8.95,5.23,L
+Pittsburgh Steelers,Detroit Lions,Pittsburgh Steelers,Detroit Lions,10,Sun,14-Nov,16,22,387,242,145,3,17,306,77,229,0,-6.61,5.57,1.04,T
+Tennessee Titans,New Orleans Saints,Tennessee Titans,New Orleans Saints,10,Sun,14-Nov,21,17,264,198,66,0,22,373,287,86,1,1.15,-12.34,13.69,W
+Minnesota Vikings,Los Angeles Chargers,Minnesota Vikings,Los Angeles Chargers,10,Sun,14-Nov,20,24,381,278,103,1,20,253,171,82,1,8.75,-3.95,2.56,W
+San Francisco 49ers,Jacksonville Jaguars,San Francisco 49ers,Jacksonville Jaguars,11,Sun,21-Nov,10,25,333,162,171,0,14,200,146,54,2,17.86,1.83,0.08,W
+Chicago Bears,Baltimore Ravens,Chicago Bears,Baltimore Ravens,11,Sun,21-Nov,16,14,353,261,92,1,23,299,176,123,1,0.66,-0.29,-3.41,L
+Cincinnati Bengals,Las Vegas Raiders,Cincinnati Bengals,Las Vegas Raiders,11,Sun,21-Nov,13,23,288,129,159,1,13,278,206,72,2,6.5,6.44,5.53,W
+Cleveland Browns,Detroit Lions,Cleveland Browns,Detroit Lions,11,Sun,21-Nov,10,22,349,165,184,2,12,245,77,168,2,4.65,4.39,-6.08,W
+Tampa Bay Buccaneers,New York Giants,Tampa Bay Buccaneers,New York Giants,11,Mon,22-Nov,10,28,402,308,94,1,15,215,149,66,3,10.1,16.38,-4.13,W
+Buffalo Bills,Indianapolis Colts,Buffalo Bills,Indianapolis Colts,11,Sun,21-Nov,41,19,311,220,91,4,28,370,106,264,0,2.8,-20.21,-6.78,L
+Arizona Cardinals,Seattle Seahawks,Arizona Cardinals,Seattle Seahawks,11,Sun,21-Nov,13,29,413,318,95,0,16,266,180,86,0,17.7,1.84,-8.6,W
+Los Angeles Chargers,Pittsburgh Steelers,Los Angeles Chargers,Pittsburgh Steelers,11,Sun,21-Nov,37,33,533,374,159,1,22,300,245,55,0,20.68,-7.04,-7.92,W
+Kansas City Chiefs,Dallas Cowboys,Kansas City Chiefs,Dallas Cowboys,11,Sun,21-Nov,9,22,370,244,126,2,16,276,194,82,3,-2.37,15.89,-5.44,W
+Indianapolis Colts,Buffalo Bills,Indianapolis Colts,Buffalo Bills,11,Sun,21-Nov,15,28,370,106,264,0,19,311,220,91,4,20.21,-2.8,6.78,W
+Dallas Cowboys,Kansas City Chiefs,Dallas Cowboys,Kansas City Chiefs,11,Sun,21-Nov,19,16,276,194,82,3,22,370,244,126,2,-15.89,2.37,5.44,L
+Miami Dolphins,New York Jets,Miami Dolphins,New York Jets,11,Sun,21-Nov,17,20,388,273,115,1,18,380,278,102,1,13.14,-5.03,0.94,W
+Philadelphia Eagles,New Orleans Saints,Philadelphia Eagles,New Orleans Saints,11,Sun,21-Nov,29,21,380,138,242,1,18,323,214,109,3,0.6,9.01,4.11,W
+Atlanta Falcons,New England Patriots,Atlanta Falcons,New England Patriots,11,Thu,18-Nov,25,11,165,125,40,4,20,308,174,134,1,-25.53,0.69,-2.44,L
+New York Giants,Tampa Bay Buccaneers,New York Giants,Tampa Bay Buccaneers,11,Mon,22-Nov,30,15,215,149,66,3,28,402,308,94,1,-16.38,-10.1,4.13,L
+Jacksonville Jaguars,San Francisco 49ers,Jacksonville Jaguars,San Francisco 49ers,11,Sun,21-Nov,30,14,200,146,54,2,25,333,162,171,0,-1.83,-17.86,-0.08,L
+New York Jets,Miami Dolphins,New York Jets,Miami Dolphins,11,Sun,21-Nov,24,18,380,278,102,1,20,388,273,115,1,5.03,-13.14,-0.94,L
+Detroit Lions,Cleveland Browns,Detroit Lions,Cleveland Browns,11,Sun,21-Nov,13,12,245,77,168,2,22,349,165,184,2,-4.39,-4.65,6.08,L
+Green Bay Packers,Minnesota Vikings,Green Bay Packers,Minnesota Vikings,11,Sun,21-Nov,34,21,467,372,95,0,25,408,318,90,0,22.41,-25.39,1.57,L
+Carolina Panthers,Washington Football Team,Carolina Panthers,Washington Football Team,11,Sun,21-Nov,27,18,297,186,111,0,24,369,179,190,1,6.37,-13.28,-0.05,L
+New England Patriots,Atlanta Falcons,New England Patriots,Atlanta Falcons,11,Thu,18-Nov,0,20,308,174,134,1,11,165,125,40,4,-0.69,25.53,2.44,W
+Oakland Raiders,Cincinnati Bengals,Oakland Raiders,Cincinnati Bengals,11,Sun,21-Nov,32,13,278,206,72,2,23,288,129,159,1,-6.44,-6.5,-5.53,L
+Baltimore Ravens,Chicago Bears,Baltimore Ravens,Chicago Bears,11,Sun,21-Nov,13,23,299,176,123,1,14,353,261,92,1,0.29,-0.66,3.41,W
+New Orleans Saints,Philadelphia Eagles,New Orleans Saints,Philadelphia Eagles,11,Sun,21-Nov,40,18,323,214,109,3,21,380,138,242,1,-9.01,-0.6,-4.11,L
+Seattle Seahawks,Arizona Cardinals,Seattle Seahawks,Arizona Cardinals,11,Sun,21-Nov,23,16,266,180,86,0,29,413,318,95,0,-1.84,-17.7,8.6,L
+Pittsburgh Steelers,Los Angeles Chargers,Pittsburgh Steelers,Los Angeles Chargers,11,Sun,21-Nov,41,22,300,245,55,0,33,533,374,159,1,7.04,-20.68,7.92,L
+Houston Texans,Tennessee Titans,Houston Texans,Tennessee Titans,11,Sun,21-Nov,13,15,190,107,83,0,26,420,317,103,5,-10.9,6.86,10.33,W
+Tennessee Titans,Houston Texans,Tennessee Titans,Houston Texans,11,Sun,21-Nov,22,26,420,317,103,5,15,190,107,83,0,-6.86,10.9,-10.33,L
+Minnesota Vikings,Green Bay Packers,Minnesota Vikings,Green Bay Packers,11,Sun,21-Nov,31,25,408,318,90,0,21,467,372,95,0,25.39,-22.41,-1.57,W
+San Francisco 49ers,Minnesota Vikings,San Francisco 49ers,Minnesota Vikings,12,Sun,28-Nov,26,23,423,215,208,1,17,323,256,67,2,8.93,4.16,-6.1,W
+Chicago Bears,Detroit Lions,Chicago Bears,Detroit Lions,12,Thu,25-Nov,14,21,378,310,68,1,14,239,163,76,1,4.4,2.01,-4.41,W
+Cincinnati Bengals,Pittsburgh Steelers,Cincinnati Bengals,Pittsburgh Steelers,12,Sun,28-Nov,10,25,370,172,198,1,16,301,250,51,3,14.42,15.89,-0.88,W
+Denver Broncos,Los Angeles Chargers,Denver Broncos,Los Angeles Chargers,12,Sun,28-Nov,13,23,302,155,147,1,20,357,285,72,2,12.16,6.58,1.43,W
+Cleveland Browns,Baltimore Ravens,Cleveland Browns,Baltimore Ravens,12,Sun,28-Nov,16,14,262,222,40,2,22,303,155,148,4,-11.16,7.17,-4.29,L
+Tampa Bay Buccaneers,Indianapolis Colts,Tampa Bay Buccaneers,Indianapolis Colts,12,Sun,28-Nov,31,28,359,217,142,2,24,392,285,107,5,16.55,-6.27,-3.35,W
+Buffalo Bills,New Orleans Saints,Buffalo Bills,New Orleans Saints,12,Thu,25-Nov,6,21,361,248,113,2,12,190,146,44,1,11.92,15.07,0.25,W
+Los Angeles Chargers,Denver Broncos,Los Angeles Chargers,Denver Broncos,12,Sun,28-Nov,28,20,357,285,72,2,23,302,155,147,1,-6.58,-12.16,-1.43,L
+Indianapolis Colts,Tampa Bay Buccaneers,Indianapolis Colts,Tampa Bay Buccaneers,12,Sun,28-Nov,38,24,392,285,107,5,28,359,217,142,2,6.27,-16.55,3.35,L
+Dallas Cowboys,Las Vegas Raiders,Dallas Cowboys,Las Vegas Raiders,12,Thu,25-Nov,36,23,437,373,64,0,28,509,366,143,0,9.66,-18.14,3.08,L
+Miami Dolphins,Carolina Panthers,Miami Dolphins,Carolina Panthers,12,Sun,28-Nov,10,22,315,204,111,1,10,198,134,64,3,1.89,17.24,2.85,W
+Philadelphia Eagles,New York Giants,Philadelphia Eagles,New York Giants,12,Sun,28-Nov,13,19,332,124,208,4,17,264,194,70,0,-9.73,0.39,3.28,L
+Atlanta Falcons,Jacksonville Jaguars,Atlanta Falcons,Jacksonville Jaguars,12,Sun,28-Nov,14,21,332,183,149,1,20,357,216,141,2,6.47,0.52,1.5,W
+New York Giants,Philadelphia Eagles,New York Giants,Philadelphia Eagles,12,Sun,28-Nov,7,17,264,194,70,0,19,332,124,208,4,-0.39,9.73,-3.28,W
+Jacksonville Jaguars,Atlanta Falcons,Jacksonville Jaguars,Atlanta Falcons,12,Sun,28-Nov,21,20,357,216,141,2,21,332,183,149,1,-0.52,-6.47,-1.5,L
+New York Jets,Houston Texans,New York Jets,Houston Texans,12,Sun,28-Nov,14,18,266,109,157,1,13,202,106,96,1,-2.68,9.28,-1.61,W
+Detroit Lions,Chicago Bears,Detroit Lions,Chicago Bears,12,Thu,25-Nov,16,14,239,163,76,1,21,378,310,68,1,-2.01,-4.4,4.41,L
+Green Bay Packers,Los Angeles Rams,Green Bay Packers,Los Angeles Rams,12,Sun,28-Nov,28,21,399,307,92,1,15,353,285,68,3,4.66,5.92,-0.69,W
+Carolina Panthers,Miami Dolphins,Carolina Panthers,Miami Dolphins,12,Sun,28-Nov,33,10,198,134,64,3,22,315,204,111,1,-17.24,-1.89,-2.85,L
+New England Patriots,Tennessee Titans,New England Patriots,Tennessee Titans,12,Sun,28-Nov,13,23,394,289,105,0,18,355,85,270,4,16.62,2.23,4.08,W
+Oakland Raiders,Dallas Cowboys,Oakland Raiders,Dallas Cowboys,12,Thu,25-Nov,33,28,509,366,143,0,23,437,373,64,0,18.14,-9.66,-3.08,W
+Los Angeles Rams,Green Bay Packers,Los Angeles Rams,Green Bay Packers,12,Sun,28-Nov,36,15,353,285,68,3,21,399,307,92,1,-5.92,-4.66,0.69,L
+Baltimore Ravens,Cleveland Browns,Baltimore Ravens,Cleveland Browns,12,Sun,28-Nov,10,22,303,155,148,4,14,262,222,40,2,-7.17,11.16,4.29,W
+New Orleans Saints,Buffalo Bills,New Orleans Saints,Buffalo Bills,12,Thu,25-Nov,31,12,190,146,44,1,21,361,248,113,2,-15.07,-11.92,-0.25,L
+Seattle Seahawks,Washington Football Team,Seattle Seahawks,Washington Football Team,12,Mon,29-Nov,17,10,267,233,34,1,27,371,219,152,1,-2.58,-6.29,2.42,L
+Pittsburgh Steelers,Cincinnati Bengals,Pittsburgh Steelers,Cincinnati Bengals,12,Sun,28-Nov,41,16,301,250,51,3,25,370,172,198,1,-15.89,-14.42,0.88,L
+Houston Texans,New York Jets,Houston Texans,New York Jets,12,Sun,28-Nov,21,13,202,106,96,1,18,266,109,157,1,-9.28,2.68,1.61,L
+Tennessee Titans,New England Patriots,Tennessee Titans,New England Patriots,12,Sun,28-Nov,36,18,355,85,270,4,23,394,289,105,0,-2.23,-16.62,-4.08,L
+Minnesota Vikings,San Francisco 49ers,Minnesota Vikings,San Francisco 49ers,12,Sun,28-Nov,34,17,323,256,67,2,23,423,215,208,1,-4.16,-8.93,6.1,L
+San Francisco 49ers,Seattle Seahawks,San Francisco 49ers,Seattle Seahawks,13,Sun,5-Dec,30,17,365,294,71,3,21,327,181,146,3,-0.51,-2.27,-3.44,L
+Chicago Bears,Arizona Cardinals,Chicago Bears,Arizona Cardinals,13,Sun,5-Dec,33,26,329,217,112,4,14,257,120,137,0,-6.69,-6.68,3.93,L
+Cincinnati Bengals,Los Angeles Chargers,Cincinnati Bengals,Los Angeles Chargers,13,Sun,5-Dec,41,21,356,260,96,4,18,363,284,79,3,-12.31,-1.98,-1.02,L
+Denver Broncos,Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,13,Sun,5-Dec,22,22,404,250,154,3,15,267,178,89,1,-8.21,4.04,-5.89,L
+Tampa Bay Buccaneers,Atlanta Falcons,Tampa Bay Buccaneers,Atlanta Falcons,13,Sun,5-Dec,17,25,425,368,57,1,21,380,259,121,1,17.18,-5.45,-2.61,W
+Buffalo Bills,New England Patriots,Buffalo Bills,New England Patriots,13,Mon,6-Dec,14,16,230,131,99,1,11,241,19,222,1,-7.94,1.79,0.85,L
+Arizona Cardinals,Chicago Bears,Arizona Cardinals,Chicago Bears,13,Sun,5-Dec,22,14,257,120,137,0,26,329,217,112,4,6.68,6.69,-3.93,W
+Los Angeles Chargers,Cincinnati Bengals,Los Angeles Chargers,Cincinnati Bengals,13,Sun,5-Dec,22,18,363,284,79,3,21,356,260,96,4,1.98,12.31,1.02,W
+Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,Denver Broncos,13,Sun,5-Dec,9,15,267,178,89,1,22,404,250,154,3,-4.04,8.21,5.89,W
+Indianapolis Colts,Houston Texans,Indianapolis Colts,Houston Texans,13,Sun,5-Dec,0,26,389,151,238,1,9,141,57,84,2,12.97,28.83,-9.16,W
+Dallas Cowboys,New Orleans Saints,Dallas Cowboys,New Orleans Saints,13,Thu,2-Dec,17,17,377,231,146,1,17,405,252,153,4,-3.59,9.41,5.15,W
+Miami Dolphins,New York Giants,Miami Dolphins,New York Giants,13,Sun,5-Dec,9,19,297,229,68,0,16,250,159,91,1,1.6,6.39,3.32,W
+Philadelphia Eagles,New York Jets,Philadelphia Eagles,New York Jets,13,Sun,5-Dec,18,26,418,233,185,0,21,281,211,70,1,22.38,-6.13,-1.78,W
+Atlanta Falcons,Tampa Bay Buccaneers,Atlanta Falcons,Tampa Bay Buccaneers,13,Sun,5-Dec,30,21,380,259,121,1,25,425,368,57,1,5.45,-17.18,2.61,L
+New York Giants,Miami Dolphins,New York Giants,Miami Dolphins,13,Sun,5-Dec,20,16,250,159,91,1,19,297,229,68,0,-6.39,-1.6,-3.32,L
+Jacksonville Jaguars,Los Angeles Rams,Jacksonville Jaguars,Los Angeles Rams,13,Sun,5-Dec,37,14,197,136,61,2,24,418,290,128,0,-12.55,-21.19,3.25,L
+New York Jets,Philadelphia Eagles,New York Jets,Philadelphia Eagles,13,Sun,5-Dec,33,21,281,211,70,1,26,418,233,185,0,6.13,-22.38,1.78,L
+Detroit Lions,Minnesota Vikings,Detroit Lions,Minnesota Vikings,13,Sun,5-Dec,27,23,372,272,100,2,26,426,326,100,1,5.16,-2.07,1.98,W
+New England Patriots,Buffalo Bills,New England Patriots,Buffalo Bills,13,Mon,6-Dec,10,11,241,19,222,1,16,230,131,99,1,-1.79,7.94,-0.85,W
+Oakland Raiders,Washington Football Team,Oakland Raiders,Washington Football Team,13,Sun,5-Dec,17,22,310,234,76,0,23,298,186,112,1,6.39,-8.22,-0.07,L
+Los Angeles Rams,Jacksonville Jaguars,Los Angeles Rams,Jacksonville Jaguars,13,Sun,5-Dec,7,24,418,290,128,0,14,197,136,61,2,21.19,12.55,-3.25,W
+Baltimore Ravens,Pittsburgh Steelers,Baltimore Ravens,Pittsburgh Steelers,13,Sun,5-Dec,20,22,326,219,107,1,17,321,236,85,0,1.95,-7.87,1.18,L
+New Orleans Saints,Dallas Cowboys,New Orleans Saints,Dallas Cowboys,13,Thu,2-Dec,27,17,405,252,153,4,17,377,231,146,1,-9.41,3.59,-5.15,L
+Seattle Seahawks,San Francisco 49ers,Seattle Seahawks,San Francisco 49ers,13,Sun,5-Dec,23,21,327,181,146,3,17,365,294,71,3,2.27,0.51,3.44,W
+Pittsburgh Steelers,Baltimore Ravens,Pittsburgh Steelers,Baltimore Ravens,13,Sun,5-Dec,19,17,321,236,85,0,22,326,219,107,1,7.87,-1.95,-1.18,W
+Houston Texans,Indianapolis Colts,Houston Texans,Indianapolis Colts,13,Sun,5-Dec,31,9,141,57,84,2,26,389,151,238,1,-28.83,-12.97,9.16,L
+Minnesota Vikings,Detroit Lions,Minnesota Vikings,Detroit Lions,13,Sun,5-Dec,29,26,426,326,100,1,23,372,272,100,2,2.07,-5.16,-1.98,L
+San Francisco 49ers,Cincinnati Bengals,San Francisco 49ers,Cincinnati Bengals,14,Sun,12-Dec,23,21,355,255,100,0,22,397,311,86,2,4.6,-11.63,10.68,W
+Chicago Bears,Green Bay Packers,Chicago Bears,Green Bay Packers,14,Sun,12-Dec,45,16,347,210,137,3,27,439,320,119,0,-5.6,-23.05,15.19,L
+Cincinnati Bengals,San Francisco 49ers,Cincinnati Bengals,San Francisco 49ers,14,Sun,12-Dec,26,22,397,311,86,2,21,355,255,100,0,11.63,-4.6,-10.68,L
+Denver Broncos,Detroit Lions,Denver Broncos,Detroit Lions,14,Sun,12-Dec,10,25,358,174,184,0,17,316,198,118,2,22.94,4.61,-1.05,W
+Cleveland Browns,Baltimore Ravens,Cleveland Browns,Baltimore Ravens,14,Sun,12-Dec,22,20,290,190,100,1,21,389,271,118,2,2.4,8.51,-5.68,W
+Tampa Bay Buccaneers,Buffalo Bills,Tampa Bay Buccaneers,Buffalo Bills,14,Sun,12-Dec,27,26,488,351,137,0,27,466,293,173,1,18.05,-7.42,-5.48,W
+Buffalo Bills,Tampa Bay Buccaneers,Buffalo Bills,Tampa Bay Buccaneers,14,Sun,12-Dec,33,27,466,293,173,1,26,488,351,137,0,7.42,-18.05,5.48,L
+Arizona Cardinals,Los Angeles Rams,Arizona Cardinals,Los Angeles Rams,14,Mon,13-Dec,30,22,447,344,103,2,18,356,267,89,0,0.66,-13.49,3.55,L
+Los Angeles Chargers,New York Giants,Los Angeles Chargers,New York Giants,14,Sun,12-Dec,21,26,423,271,152,0,20,316,181,135,2,18.32,0.24,-3.58,W
+Kansas City Chiefs,Las Vegas Raiders,Kansas City Chiefs,Las Vegas Raiders,14,Sun,12-Dec,9,21,372,240,132,0,19,290,246,44,5,25.7,9.74,1.07,W
+Dallas Cowboys,Washington Football Team,Dallas Cowboys,Washington Football Team,14,Sun,12-Dec,20,19,323,201,122,2,14,224,124,100,4,-12.16,25.49,-2.14,W
+Atlanta Falcons,Carolina Panthers,Atlanta Falcons,Carolina Panthers,14,Sun,12-Dec,21,20,318,190,128,1,21,334,243,91,3,4.15,5.38,1.74,W
+New York Giants,Los Angeles Chargers,New York Giants,Los Angeles Chargers,14,Sun,12-Dec,37,20,316,181,135,2,26,423,271,152,0,-0.24,-18.32,3.58,L
+Jacksonville Jaguars,Tennessee Titans,Jacksonville Jaguars,Tennessee Titans,14,Sun,12-Dec,20,9,192,184,8,4,22,263,161,102,0,-18.9,-2.55,4.47,L
+New York Jets,New Orleans Saints,New York Jets,New Orleans Saints,14,Sun,12-Dec,30,13,256,178,78,0,21,344,141,203,0,-10.95,-8.42,4.28,L
+Detroit Lions,Denver Broncos,Detroit Lions,Denver Broncos,14,Sun,12-Dec,38,17,316,198,118,2,25,358,174,184,0,-4.61,-22.94,1.05,L
+Green Bay Packers,Chicago Bears,Green Bay Packers,Chicago Bears,14,Sun,12-Dec,30,27,439,320,119,0,16,347,210,137,3,23.05,5.6,-15.19,W
+Carolina Panthers,Atlanta Falcons,Carolina Panthers,Atlanta Falcons,14,Sun,12-Dec,29,21,334,243,91,3,20,318,190,128,1,-5.38,-4.15,-1.74,L
+Oakland Raiders,Kansas City Chiefs,Oakland Raiders,Kansas City Chiefs,14,Sun,12-Dec,48,19,290,246,44,5,21,372,240,132,0,-9.74,-25.7,-1.07,L
+Los Angeles Rams,Arizona Cardinals,Los Angeles Rams,Arizona Cardinals,14,Mon,13-Dec,23,18,356,267,89,0,22,447,344,103,2,13.49,-0.66,-3.55,W
+Baltimore Ravens,Cleveland Browns,Baltimore Ravens,Cleveland Browns,14,Sun,12-Dec,24,21,389,271,118,2,20,290,190,100,1,-8.51,-2.4,5.68,L
+New Orleans Saints,New York Jets,New Orleans Saints,New York Jets,14,Sun,12-Dec,9,21,344,141,203,0,13,256,178,78,0,8.42,10.95,-4.28,W
+Seattle Seahawks,Houston Texans,Seattle Seahawks,Houston Texans,14,Sun,12-Dec,13,20,453,260,193,0,25,380,317,63,0,21.71,2.6,-9.75,W
+Pittsburgh Steelers,Minnesota Vikings,Pittsburgh Steelers,Minnesota Vikings,14,Thu,9-Dec,36,22,375,269,106,1,22,458,216,242,2,6.41,-8.68,-1.31,L
+Houston Texans,Seattle Seahawks,Houston Texans,Seattle Seahawks,14,Sun,12-Dec,33,25,380,317,63,0,20,453,260,193,0,-2.6,-21.71,9.75,L
+Tennessee Titans,Jacksonville Jaguars,Tennessee Titans,Jacksonville Jaguars,14,Sun,12-Dec,0,22,263,161,102,0,9,192,184,8,4,2.55,18.9,-4.47,W
+Minnesota Vikings,Pittsburgh Steelers,Minnesota Vikings,Pittsburgh Steelers,14,Thu,9-Dec,28,22,458,216,242,2,22,375,269,106,1,8.68,-6.41,1.31,W
+San Francisco 49ers,Atlanta Falcons,San Francisco 49ers,Atlanta Falcons,15,Sun,19-Dec,13,23,397,235,162,1,13,275,213,62,1,20.53,9.41,-11.46,W
+Chicago Bears,Minnesota Vikings,Chicago Bears,Minnesota Vikings,15,Mon,20-Dec,17,24,370,255,115,3,13,193,61,132,1,-7.72,4.65,-5.92,L
+Cincinnati Bengals,Denver Broncos,Cincinnati Bengals,Denver Broncos,15,Sun,19-Dec,10,12,249,136,113,0,19,292,159,133,1,-4.53,7.29,5.22,W
+Denver Broncos,Cincinnati Bengals,Denver Broncos,Cincinnati Bengals,15,Sun,19-Dec,15,19,292,159,133,1,12,249,136,113,0,-7.29,4.53,-5.22,L
+Cleveland Browns,Las Vegas Raiders,Cleveland Browns,Las Vegas Raiders,15,Mon,20-Dec,16,13,236,147,89,0,20,328,230,98,2,1.13,-1.6,-0.2,L
+Tampa Bay Buccaneers,New Orleans Saints,Tampa Bay Buccaneers,New Orleans Saints,15,Sun,19-Dec,9,17,302,184,118,2,11,212,151,61,0,-13.21,17.46,-10.67,L
+Buffalo Bills,Carolina Panthers,Buffalo Bills,Carolina Panthers,15,Sun,19-Dec,14,21,312,193,119,1,19,275,124,151,1,9.55,11.11,-1.29,W
+Arizona Cardinals,Detroit Lions,Arizona Cardinals,Detroit Lions,15,Sun,19-Dec,30,23,398,293,105,1,22,338,212,126,1,-3.11,-9.87,-1.31,L
+Los Angeles Chargers,Kansas City Chiefs,Los Angeles Chargers,Kansas City Chiefs,15,Thu,16-Dec,34,28,428,236,192,2,26,496,410,86,2,6.23,-13.18,1.57,L
+Kansas City Chiefs,Los Angeles Chargers,Kansas City Chiefs,Los Angeles Chargers,15,Thu,16-Dec,28,26,496,410,86,2,28,428,236,192,2,13.18,-6.23,-1.57,W
+Indianapolis Colts,New England Patriots,Indianapolis Colts,New England Patriots,15,Sat,18-Dec,17,15,275,49,226,1,20,365,284,81,2,3.63,2.77,4.16,W
+Dallas Cowboys,New York Giants,Dallas Cowboys,New York Giants,15,Sun,19-Dec,6,23,328,203,125,1,15,302,178,124,4,5.96,14.75,-7.36,W
+Miami Dolphins,New York Jets,Miami Dolphins,New York Jets,15,Sun,19-Dec,24,23,379,196,183,3,16,228,126,102,1,2.65,6.38,-1.79,W
+Philadelphia Eagles,Washington Football Team,Philadelphia Eagles,Washington Football Team,15,Tue,21-Dec,17,23,519,281,238,2,14,237,174,63,0,13.15,0.64,-5.36,W
+Atlanta Falcons,San Francisco 49ers,Atlanta Falcons,San Francisco 49ers,15,Sun,19-Dec,31,13,275,213,62,1,23,397,235,162,1,-9.41,-20.53,11.46,L
+New York Giants,Dallas Cowboys,New York Giants,Dallas Cowboys,15,Sun,19-Dec,21,15,302,178,124,4,23,328,203,125,1,-14.75,-5.96,7.36,L
+Jacksonville Jaguars,Houston Texans,Jacksonville Jaguars,Houston Texans,15,Sun,19-Dec,30,21,296,189,107,0,13,281,206,75,1,-1.9,0.77,-10.61,L
+New York Jets,Miami Dolphins,New York Jets,Miami Dolphins,15,Sun,19-Dec,31,16,228,126,102,1,23,379,196,183,3,-6.38,-2.65,1.79,L
+Detroit Lions,Arizona Cardinals,Detroit Lions,Arizona Cardinals,15,Sun,19-Dec,12,22,338,212,126,1,23,398,293,105,1,9.87,3.11,1.31,W
+Green Bay Packers,Baltimore Ravens,Green Bay Packers,Baltimore Ravens,15,Sun,19-Dec,30,26,346,250,96,0,24,354,211,143,0,19.33,-13.55,-1.9,W
+Carolina Panthers,Buffalo Bills,Carolina Panthers,Buffalo Bills,15,Sun,19-Dec,31,19,275,124,151,1,21,312,193,119,1,-11.11,-9.55,1.29,L
+New England Patriots,Indianapolis Colts,New England Patriots,Indianapolis Colts,15,Sat,18-Dec,27,20,365,284,81,2,15,275,49,226,1,-2.77,-3.63,-4.16,L
+Oakland Raiders,Cleveland Browns,Oakland Raiders,Cleveland Browns,15,Mon,20-Dec,14,20,328,230,98,2,13,236,147,89,0,1.6,-1.13,0.2,W
+Los Angeles Rams,Seattle Seahawks,Los Angeles Rams,Seattle Seahawks,15,Tue,21-Dec,10,20,332,209,123,1,13,214,134,80,1,4.19,8.13,-3.72,W
+Baltimore Ravens,Green Bay Packers,Baltimore Ravens,Green Bay Packers,15,Sun,19-Dec,31,24,354,211,143,0,26,346,250,96,0,13.55,-19.33,1.9,L
+New Orleans Saints,Tampa Bay Buccaneers,New Orleans Saints,Tampa Bay Buccaneers,15,Sun,19-Dec,0,11,212,151,61,0,17,302,184,118,2,-17.46,13.21,10.67,W
+Seattle Seahawks,Los Angeles Rams,Seattle Seahawks,Los Angeles Rams,15,Tue,21-Dec,20,13,214,134,80,1,20,332,209,123,1,-8.13,-4.19,3.72,L
+Pittsburgh Steelers,Tennessee Titans,Pittsburgh Steelers,Tennessee Titans,15,Sun,19-Dec,13,12,168,133,35,0,22,318,117,201,4,-5.99,13.76,-0.69,W
+Houston Texans,Jacksonville Jaguars,Houston Texans,Jacksonville Jaguars,15,Sun,19-Dec,16,13,281,206,75,1,21,296,189,107,0,-0.77,1.9,10.61,W
+Tennessee Titans,Pittsburgh Steelers,Tennessee Titans,Pittsburgh Steelers,15,Sun,19-Dec,19,22,318,117,201,4,12,168,133,35,0,-13.76,5.99,0.69,L
+Minnesota Vikings,Chicago Bears,Minnesota Vikings,Chicago Bears,15,Mon,20-Dec,9,13,193,61,132,1,24,370,255,115,3,-4.65,7.72,5.92,W
+San Francisco 49ers,Tennessee Titans,San Francisco 49ers,Tennessee Titans,16,Thu,23-Dec,20,22,389,306,83,2,16,278,188,90,0,5.48,-2.96,-2.72,L
+Chicago Bears,Seattle Seahawks,Chicago Bears,Seattle Seahawks,16,Sun,26-Dec,24,26,317,229,88,0,18,331,161,170,0,7.6,-8.31,3.95,W
+Cincinnati Bengals,Baltimore Ravens,Cincinnati Bengals,Baltimore Ravens,16,Sun,26-Dec,21,33,575,498,77,0,21,334,295,39,1,35.73,-8.62,-4.84,W
+Denver Broncos,Las Vegas Raiders,Denver Broncos,Las Vegas Raiders,16,Sun,26-Dec,17,8,158,140,18,0,22,342,182,160,3,-7.14,0.46,2.09,L
+Cleveland Browns,Green Bay Packers,Cleveland Browns,Green Bay Packers,16,Sat,25-Dec,24,28,408,189,219,4,19,311,202,109,0,9.4,-10.56,-3.89,L
+Tampa Bay Buccaneers,Carolina Panthers,Tampa Bay Buccaneers,Carolina Panthers,16,Sun,26-Dec,6,21,391,232,159,0,16,273,206,67,1,13.01,11.17,-2.95,W
+Buffalo Bills,New England Patriots,Buffalo Bills,New England Patriots,16,Sun,26-Dec,21,28,428,314,114,0,20,288,139,149,2,19.09,-9.37,-1.08,W
+Arizona Cardinals,Indianapolis Colts,Arizona Cardinals,Indianapolis Colts,16,Sat,25-Dec,22,20,378,245,133,0,20,346,220,126,0,6.97,-2.37,-6.29,L
+Los Angeles Chargers,Houston Texans,Los Angeles Chargers,Houston Texans,16,Sun,26-Dec,41,25,417,328,89,3,26,437,248,189,0,5.49,-24.35,2.75,L
+Kansas City Chiefs,Pittsburgh Steelers,Kansas City Chiefs,Pittsburgh Steelers,16,Sun,26-Dec,10,25,381,254,127,0,20,303,173,130,3,16.97,6.16,-2.77,W
+Indianapolis Colts,Arizona Cardinals,Indianapolis Colts,Arizona Cardinals,16,Sat,25-Dec,16,20,346,220,126,0,20,378,245,133,0,2.37,-6.97,6.29,W
+Dallas Cowboys,Washington Football Team,Dallas Cowboys,Washington Football Team,16,Sun,26-Dec,14,28,497,389,108,0,14,257,172,85,2,31.3,10.62,0.47,W
+Miami Dolphins,New Orleans Saints,Miami Dolphins,New Orleans Saints,16,Mon,27-Dec,3,16,259,173,86,1,10,164,81,83,2,-3.16,24.8,-3.21,W
+Philadelphia Eagles,New York Giants,Philadelphia Eagles,New York Giants,16,Sun,26-Dec,10,17,324,194,130,0,15,192,108,84,2,4.97,17.66,-0.73,W
+Atlanta Falcons,Detroit Lions,Atlanta Falcons,Detroit Lions,16,Sun,26-Dec,16,14,254,207,47,1,19,338,208,130,1,5.42,-6.56,2.23,W
+New York Giants,Philadelphia Eagles,New York Giants,Philadelphia Eagles,16,Sun,26-Dec,34,15,192,108,84,2,17,324,194,130,0,-17.66,-4.97,0.73,L
+Jacksonville Jaguars,New York Jets,Jacksonville Jaguars,New York Jets,16,Sun,26-Dec,26,27,384,252,132,1,18,373,100,273,0,8.72,-10.13,-4.81,L
+New York Jets,Jacksonville Jaguars,New York Jets,Jacksonville Jaguars,16,Sun,26-Dec,21,18,373,100,273,0,27,384,252,132,1,10.13,-8.72,4.81,W
+Detroit Lions,Atlanta Falcons,Detroit Lions,Atlanta Falcons,16,Sun,26-Dec,20,19,338,208,130,1,14,254,207,47,1,6.56,-5.42,-2.23,L
+Green Bay Packers,Cleveland Browns,Green Bay Packers,Cleveland Browns,16,Sat,25-Dec,22,19,311,202,109,0,28,408,189,219,4,10.56,-9.4,3.89,W
+Carolina Panthers,Tampa Bay Buccaneers,Carolina Panthers,Tampa Bay Buccaneers,16,Sun,26-Dec,32,16,273,206,67,1,21,391,232,159,0,-11.17,-13.01,2.95,L
+New England Patriots,Buffalo Bills,New England Patriots,Buffalo Bills,16,Sun,26-Dec,33,20,288,139,149,2,28,428,314,114,0,9.37,-19.09,1.08,L
+Oakland Raiders,Denver Broncos,Oakland Raiders,Denver Broncos,16,Sun,26-Dec,13,22,342,182,160,3,8,158,140,18,0,-0.46,7.14,-2.09,W
+Los Angeles Rams,Minnesota Vikings,Los Angeles Rams,Minnesota Vikings,16,Sun,26-Dec,23,22,356,197,159,3,19,361,295,66,1,-0.84,1.81,7.8,W
+Baltimore Ravens,Cincinnati Bengals,Baltimore Ravens,Cincinnati Bengals,16,Sun,26-Dec,41,21,334,295,39,1,33,575,498,77,0,8.62,-35.73,4.84,L
+New Orleans Saints,Miami Dolphins,New Orleans Saints,Miami Dolphins,16,Mon,27-Dec,20,10,164,81,83,2,16,259,173,86,1,-24.8,3.16,3.21,L
+Seattle Seahawks,Chicago Bears,Seattle Seahawks,Chicago Bears,16,Sun,26-Dec,25,18,331,161,170,0,26,317,229,88,0,8.31,-7.6,-3.95,L
+Pittsburgh Steelers,Kansas City Chiefs,Pittsburgh Steelers,Kansas City Chiefs,16,Sun,26-Dec,36,20,303,173,130,3,25,381,254,127,0,-6.16,-16.97,2.77,L
+Houston Texans,Los Angeles Chargers,Houston Texans,Los Angeles Chargers,16,Sun,26-Dec,29,26,437,248,189,0,25,417,328,89,3,24.35,-5.49,-2.75,W
+Tennessee Titans,San Francisco 49ers,Tennessee Titans,San Francisco 49ers,16,Thu,23-Dec,17,16,278,188,90,0,22,389,306,83,2,2.96,-5.48,2.72,W
+Minnesota Vikings,Los Angeles Rams,Minnesota Vikings,Los Angeles Rams,16,Sun,26-Dec,30,19,361,295,66,1,22,356,197,159,3,-1.81,0.84,-7.8,L
+San Francisco 49ers,Houston Texans,San Francisco 49ers,Houston Texans,17,Sun,2-Jan,7,19,416,241,175,1,15,222,136,86,1,5.7,7.88,0.16,W
+Chicago Bears,New York Giants,Chicago Bears,New York Giants,17,Sun,2-Jan,3,17,249,162,87,2,13,155,-6,161,4,-4.47,28.88,1.13,W
+Cincinnati Bengals,Kansas City Chiefs,Cincinnati Bengals,Kansas City Chiefs,17,Sun,2-Jan,31,23,475,415,60,0,23,414,259,155,0,28.52,-25.13,-1.86,W
+Denver Broncos,Los Angeles Chargers,Denver Broncos,Los Angeles Chargers,17,Sun,2-Jan,34,18,319,236,83,1,21,341,237,104,0,-7.8,-15.09,-1.0,L
+Cleveland Browns,Pittsburgh Steelers,Cleveland Browns,Pittsburgh Steelers,17,Mon,3-Jan,26,15,232,139,93,2,20,299,109,190,1,-12.27,-0.38,-4.51,L
+Tampa Bay Buccaneers,New York Jets,Tampa Bay Buccaneers,New York Jets,17,Sun,2-Jan,24,26,467,405,62,1,22,374,224,150,1,17.5,-13.43,0.2,W
+Buffalo Bills,Atlanta Falcons,Buffalo Bills,Atlanta Falcons,17,Sun,2-Jan,15,28,351,118,233,3,18,265,169,96,1,12.95,1.07,-1.41,W
+Arizona Cardinals,Dallas Cowboys,Arizona Cardinals,Dallas Cowboys,17,Sun,2-Jan,22,23,399,272,127,0,19,301,256,45,1,12.86,-6.87,-1.06,W
+Los Angeles Chargers,Denver Broncos,Los Angeles Chargers,Denver Broncos,17,Sun,2-Jan,13,21,341,237,104,0,18,319,236,83,1,15.09,7.8,1.0,W
+Kansas City Chiefs,Cincinnati Bengals,Kansas City Chiefs,Cincinnati Bengals,17,Sun,2-Jan,34,23,414,259,155,0,23,475,415,60,0,25.13,-28.52,1.86,L
+Indianapolis Colts,Las Vegas Raiders,Indianapolis Colts,Las Vegas Raiders,17,Sun,2-Jan,23,16,262,140,122,0,18,326,241,85,2,4.03,-5.02,-3.28,L
+Dallas Cowboys,Arizona Cardinals,Dallas Cowboys,Arizona Cardinals,17,Sun,2-Jan,25,19,301,256,45,1,23,399,272,127,0,6.87,-12.86,1.06,L
+Miami Dolphins,Tennessee Titans,Miami Dolphins,Tennessee Titans,17,Sun,2-Jan,34,16,256,182,74,2,17,308,110,198,0,-14.86,-7.95,-6.05,L
+Philadelphia Eagles,Washington Football Team,Philadelphia Eagles,Washington Football Team,17,Sun,2-Jan,16,18,330,212,118,0,24,312,218,94,1,9.44,-2.61,-2.02,W
+Atlanta Falcons,Buffalo Bills,Atlanta Falcons,Buffalo Bills,17,Sun,2-Jan,29,18,265,169,96,1,28,351,118,233,3,-1.07,-12.95,1.41,L
+New York Giants,Chicago Bears,New York Giants,Chicago Bears,17,Sun,2-Jan,29,13,155,-6,161,4,17,249,162,87,2,-28.88,4.47,-1.13,L
+Jacksonville Jaguars,New England Patriots,Jacksonville Jaguars,New England Patriots,17,Sun,2-Jan,50,11,253,173,80,3,32,471,290,181,0,-11.33,-32.81,3.4,L
+New York Jets,Tampa Bay Buccaneers,New York Jets,Tampa Bay Buccaneers,17,Sun,2-Jan,28,22,374,224,150,1,26,467,405,62,1,13.43,-17.5,-0.2,L
+Detroit Lions,Seattle Seahawks,Detroit Lions,Seattle Seahawks,17,Sun,2-Jan,51,20,357,262,95,3,29,497,232,265,0,3.55,-32.32,2.68,L
+Green Bay Packers,Minnesota Vikings,Green Bay Packers,Minnesota Vikings,17,Sun,2-Jan,10,29,481,307,174,0,11,206,179,27,0,21.96,13.56,-7.8,W
+Carolina Panthers,New Orleans Saints,Carolina Panthers,New Orleans Saints,17,Sun,2-Jan,18,16,178,90,88,2,15,280,207,73,0,-10.01,0.34,-0.41,L
+New England Patriots,Jacksonville Jaguars,New England Patriots,Jacksonville Jaguars,17,Sun,2-Jan,10,32,471,290,181,0,11,253,173,80,3,32.81,11.33,-3.4,W
+Oakland Raiders,Indianapolis Colts,Oakland Raiders,Indianapolis Colts,17,Sun,2-Jan,20,18,326,241,85,2,16,262,140,122,0,5.02,-4.03,3.28,W
+Los Angeles Rams,Baltimore Ravens,Los Angeles Rams,Baltimore Ravens,17,Sun,2-Jan,19,20,373,300,73,3,19,327,162,165,2,2.98,-0.4,-2.65,W
+Baltimore Ravens,Los Angeles Rams,Baltimore Ravens,Los Angeles Rams,17,Sun,2-Jan,20,19,327,162,165,2,20,373,300,73,3,0.4,-2.98,2.65,L
+New Orleans Saints,Carolina Panthers,New Orleans Saints,Carolina Panthers,17,Sun,2-Jan,10,15,280,207,73,0,16,178,90,88,2,-0.34,10.01,0.41,W
+Seattle Seahawks,Detroit Lions,Seattle Seahawks,Detroit Lions,17,Sun,2-Jan,29,29,497,232,265,0,20,357,262,95,3,32.32,-3.55,-2.68,W
+Pittsburgh Steelers,Cleveland Browns,Pittsburgh Steelers,Cleveland Browns,17,Mon,3-Jan,14,20,299,109,190,1,15,232,139,93,2,0.38,12.27,4.51,W
+Houston Texans,San Francisco 49ers,Houston Texans,San Francisco 49ers,17,Sun,2-Jan,23,15,222,136,86,1,19,416,241,175,1,-7.88,-5.7,-0.16,L
+Tennessee Titans,Miami Dolphins,Tennessee Titans,Miami Dolphins,17,Sun,2-Jan,3,17,308,110,198,0,16,256,182,74,2,7.95,14.86,6.05,W
+Minnesota Vikings,Green Bay Packers,Minnesota Vikings,Green Bay Packers,17,Sun,2-Jan,37,11,206,179,27,0,29,481,307,174,0,-13.56,-21.96,7.8,L
+San Francisco 49ers,Los Angeles Rams,San Francisco 49ers,Los Angeles Rams,18,Sun,9-Jan,24,23,449,314,135,2,19,265,201,64,2,15.33,-8.42,-3.91,W
+Chicago Bears,Minnesota Vikings,Chicago Bears,Minnesota Vikings,18,Sun,9-Jan,31,24,356,266,90,2,11,331,227,104,0,-12.22,-7.18,1.2,L
+Cincinnati Bengals,Cleveland Browns,Cincinnati Bengals,Cleveland Browns,18,Sun,9-Jan,21,11,182,103,79,0,24,376,171,205,2,-10.26,-6.01,4.58,L
+Denver Broncos,Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,18,Sat,8-Jan,28,18,364,173,191,1,28,390,255,135,0,4.6,-17.95,5.59,L
+Cleveland Browns,Cincinnati Bengals,Cleveland Browns,Cincinnati Bengals,18,Sun,9-Jan,16,24,376,171,205,2,11,182,103,79,0,6.01,10.26,-4.58,W
+Tampa Bay Buccaneers,Carolina Panthers,Tampa Bay Buccaneers,Carolina Panthers,18,Sun,9-Jan,17,21,409,324,85,0,18,317,207,110,2,20.33,10.73,-4.03,W
+Buffalo Bills,New York Jets,Buffalo Bills,New York Jets,18,Sun,9-Jan,10,25,424,254,170,0,4,53,5,48,0,8.18,23.07,-14.05,W
+Arizona Cardinals,Seattle Seahawks,Arizona Cardinals,Seattle Seahawks,18,Sun,9-Jan,38,20,305,187,118,1,19,431,229,202,2,0.21,-12.83,1.02,L
+Los Angeles Chargers,Las Vegas Raiders,Los Angeles Chargers,Las Vegas Raiders,18,Sun,9-Jan,35,27,440,355,85,2,24,346,172,174,0,16.16,-11.13,-8.69,L
+Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,Denver Broncos,18,Sat,8-Jan,24,28,390,255,135,0,18,364,173,191,1,17.95,-4.6,-5.59,W
+Indianapolis Colts,Jacksonville Jaguars,Indianapolis Colts,Jacksonville Jaguars,18,Sun,9-Jan,26,13,233,139,94,2,19,318,217,101,0,-12.44,-7.68,3.66,L
+Dallas Cowboys,Philadelphia Eagles,Dallas Cowboys,Philadelphia Eagles,18,Sat,8-Jan,26,22,475,304,171,0,22,315,166,149,1,33.93,-6.82,-3.0,W
+Miami Dolphins,New England Patriots,Miami Dolphins,New England Patriots,18,Sun,9-Jan,24,23,298,103,195,0,21,379,245,134,3,9.83,-1.93,8.66,W
+Philadelphia Eagles,Dallas Cowboys,Philadelphia Eagles,Dallas Cowboys,18,Sat,8-Jan,51,22,315,166,149,1,22,475,304,171,0,6.82,-33.93,3.0,L
+Atlanta Falcons,New Orleans Saints,Atlanta Falcons,New Orleans Saints,18,Sun,9-Jan,30,13,257,195,62,3,22,369,174,195,0,-6.88,-12.23,10.23,L
+New York Giants,Washington Football Team,New York Giants,Washington Football Team,18,Sun,9-Jan,22,10,177,83,94,3,16,325,99,226,0,-20.98,-0.23,7.21,L
+Jacksonville Jaguars,Indianapolis Colts,Jacksonville Jaguars,Indianapolis Colts,18,Sun,9-Jan,11,19,318,217,101,0,13,233,139,94,2,7.68,12.44,-3.66,W
+New York Jets,Buffalo Bills,New York Jets,Buffalo Bills,18,Sun,9-Jan,27,4,53,5,48,0,25,424,254,170,0,-23.07,-8.18,14.05,L
+Detroit Lions,Green Bay Packers,Detroit Lions,Green Bay Packers,18,Sun,9-Jan,30,19,404,305,99,0,22,378,256,122,3,16.74,-6.49,0.0,W
+Green Bay Packers,Detroit Lions,Green Bay Packers,Detroit Lions,18,Sun,9-Jan,37,22,378,256,122,3,19,404,305,99,0,6.49,-16.74,0.0,L
+Carolina Panthers,Tampa Bay Buccaneers,Carolina Panthers,Tampa Bay Buccaneers,18,Sun,9-Jan,41,18,317,207,110,2,21,409,324,85,0,-10.73,-20.33,4.03,L
+New England Patriots,Miami Dolphins,New England Patriots,Miami Dolphins,18,Sun,9-Jan,33,21,379,245,134,3,23,298,103,195,0,1.93,-9.83,-8.66,L
+Oakland Raiders,Los Angeles Chargers,Oakland Raiders,Los Angeles Chargers,18,Sun,9-Jan,32,24,346,172,174,0,27,440,355,85,2,11.13,-16.16,8.69,W
+Los Angeles Rams,San Francisco 49ers,Los Angeles Rams,San Francisco 49ers,18,Sun,9-Jan,27,19,265,201,64,2,23,449,314,135,2,8.42,-15.33,3.91,L
+Baltimore Ravens,Pittsburgh Steelers,Baltimore Ravens,Pittsburgh Steelers,18,Sun,9-Jan,16,20,381,132,249,3,19,314,235,79,1,-10.97,6.77,1.21,L
+New Orleans Saints,Atlanta Falcons,New Orleans Saints,Atlanta Falcons,18,Sun,9-Jan,20,22,369,174,195,0,13,257,195,62,3,12.23,6.88,-10.23,W
+Seattle Seahawks,Arizona Cardinals,Seattle Seahawks,Arizona Cardinals,18,Sun,9-Jan,30,19,431,229,202,2,20,305,187,118,1,12.83,-0.21,-1.02,W
+Pittsburgh Steelers,Baltimore Ravens,Pittsburgh Steelers,Baltimore Ravens,18,Sun,9-Jan,13,19,314,235,79,1,20,381,132,249,3,-6.77,10.97,-1.21,W
+Houston Texans,Tennessee Titans,Houston Texans,Tennessee Titans,18,Sun,9-Jan,28,18,353,289,64,0,23,405,281,124,0,13.08,-21.6,1.97,L
+Tennessee Titans,Houston Texans,Tennessee Titans,Houston Texans,18,Sun,9-Jan,25,23,405,281,124,0,18,353,289,64,0,21.6,-13.08,-1.97,W
+Minnesota Vikings,Chicago Bears,Minnesota Vikings,Chicago Bears,18,Sun,9-Jan,17,11,331,227,104,0,24,356,266,90,2,7.18,12.22,-1.2,W
